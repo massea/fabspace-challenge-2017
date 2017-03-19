@@ -1,0 +1,2211 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>lusaka_shp_zambialusakachallenge.shp</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-line-2'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-line-2-hover'>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-line-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-line-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-line-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-polygon-3'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-3-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Bauleni</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 34<br>
+<b>OBJECTID:</b> 1<br>
+<b>NAME:</b> Bauleni<br>
+<b>PCODE:</b> ZMB_TW0001<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>34</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>1</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0001</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.372715,-15.447511,0.0 28.372745,-15.447472,0.0 28.372664,-15.447378,0.0 28.37241,-15.447077,0.0 28.373678,-15.445312,0.0 28.375737,-15.442443,0.0 28.375559,-15.442182,0.0 28.374911,-15.441595,0.0 28.37493,-15.441569,0.0 28.374912,-15.441571,0.0 28.3749,-15.441572,0.0 28.374784,-15.441491,0.0 28.374159,-15.441055,0.0 28.373856,-15.440843,0.0 28.373241,-15.440327,0.0 28.373428,-15.440004,0.0 28.373468,-15.439935,0.0 28.373598,-15.439712,0.0 28.373995,-15.439891,0.0 28.374213,-15.439593,0.0 28.37459,-15.438978,0.0 28.375007,-15.438858,0.0 28.375503,-15.437867,0.0 28.375213,-15.437507,0.0 28.375865,-15.433036,0.0 28.378276,-15.434977,0.0 28.389088,-15.442205,0.0 28.388226,-15.445994,0.0 28.388215,-15.446043,0.0 28.38675,-15.446371,0.0 28.373537,-15.448428,0.0 28.373414,-15.448448,0.0 28.372757,-15.447567,0.0 28.372715,-15.447511,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Mtendere</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 121<br>
+<b>OBJECTID:</b> 2<br>
+<b>NAME:</b> Mtendere<br>
+<b>PCODE:</b> ZMB_TW0006<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>121</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>2</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0006</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.360541,-15.409499,0.0 28.360176,-15.409333,0.0 28.359734,-15.409103,0.0 28.358995,-15.408751,0.0 28.358642,-15.408702,0.0 28.358634,-15.408686,0.0 28.358567,-15.408547,0.0 28.358416,-15.408444,0.0 28.358277,-15.408396,0.0 28.357881,-15.408231,0.0 28.357842,-15.408211,0.0 28.357307,-15.408033,0.0 28.356957,-15.407957,0.0 28.356238,-15.407895,0.0 28.356045,-15.407719,0.0 28.355595,-15.407775,0.0 28.355033,-15.407807,0.0 28.354486,-15.407834,0.0 28.353923,-15.407862,0.0 28.353724,-15.407872,0.0 28.353397,-15.407888,0.0 28.352839,-15.407916,0.0 28.352265,-15.407944,0.0 28.351659,-15.407974,0.0 28.351069,-15.407987,0.0 28.351086,-15.406869,0.0 28.351089,-15.406712,0.0 28.350655,-15.405408,0.0 28.350047,-15.40462,0.0 28.34605,-15.400825,0.0 28.346034,-15.400563,0.0 28.345958,-15.400583,0.0 28.345993,-15.400356,0.0 28.350886,-15.396702,0.0 28.350833,-15.396875,0.0 28.352323,-15.397385,0.0 28.366941,-15.394494,0.0 28.366997,-15.394483,0.0 28.367013,-15.394288,0.0 28.366919,-15.393722,0.0 28.367185,-15.393153,0.0 28.3676,-15.392782,0.0 28.368437,-15.394516,0.0 28.384573,-15.392232,0.0 28.384469,-15.392871,0.0 28.383532,-15.396094,0.0 28.383502,-15.396361,0.0 28.383425,-15.396591,0.0 28.38331,-15.397163,0.0 28.383215,-15.39779,0.0 28.382428,-15.400045,0.0 28.382433,-15.400516,0.0 28.38209,-15.401512,0.0 28.381809,-15.401982,0.0 28.381551,-15.402751,0.0 28.381433,-15.403141,0.0 28.381217,-15.403857,0.0 28.381125,-15.404162,0.0 28.381098,-15.40425,0.0 28.381165,-15.404548,0.0 28.381324,-15.404715,0.0 28.381318,-15.404721,0.0 28.381157,-15.404899,0.0 28.381087,-15.405158,0.0 28.381031,-15.405362,0.0 28.380845,-15.406073,0.0 28.380559,-15.406896,0.0 28.380283,-15.407964,0.0 28.380135,-15.408244,0.0 28.380052,-15.408401,0.0 28.379907,-15.408817,0.0 28.379582,-15.409708,0.0 28.379416,-15.410273,0.0 28.37936,-15.410573,0.0 28.379355,-15.410721,0.0 28.379223,-15.41073,0.0 28.379038,-15.410775,0.0 28.37899,-15.410671,0.0 28.378919,-15.410608,0.0 28.378598,-15.410518,0.0 28.378128,-15.410388,0.0 28.37744,-15.4102,0.0 28.377407,-15.410192,0.0 28.376897,-15.410065,0.0 28.376745,-15.410014,0.0 28.376739,-15.41001,0.0 28.376624,-15.409921,0.0 28.376485,-15.409732,0.0 28.376359,-15.409683,0.0 28.376227,-15.409712,0.0 28.376045,-15.40973,0.0 28.375661,-15.40967,0.0 28.37535,-15.409624,0.0 28.374739,-15.40945,0.0 28.37369,-15.409089,0.0 28.372783,-15.408726,0.0 28.372212,-15.40853,0.0 28.370069,-15.408196,0.0 28.369338,-15.402198,0.0 28.369013,-15.402198,0.0 28.368357,-15.402198,0.0 28.367807,-15.402197,0.0 28.367393,-15.402196,0.0 28.36697,-15.402192,0.0 28.366563,-15.402183,0.0 28.366111,-15.402172,0.0 28.365726,-15.402165,0.0 28.365017,-15.402163,0.0 28.364448,-15.402157,0.0 28.363802,-15.402217,0.0 28.363427,-15.402879,0.0 28.362883,-15.403986,0.0 28.362761,-15.404234,0.0 28.362128,-15.40501,0.0 28.361571,-15.406562,0.0 28.361483,-15.407495,0.0 28.361474,-15.407586,0.0 28.361313,-15.408424,0.0 28.361013,-15.408879,0.0 28.360809,-15.409618,0.0 28.360541,-15.409499,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kabulonga</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 66<br>
+<b>OBJECTID:</b> 3<br>
+<b>NAME:</b> Kabulonga<br>
+<b>PCODE:</b> ZMB_TW0008<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>66</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>3</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0008</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.361234,-15.410071,0.0 28.361342,-15.410123,0.0 28.361263,-15.410265,0.0 28.361584,-15.410572,0.0 28.361333,-15.411767,0.0 28.360486,-15.41388,0.0 28.359173,-15.413756,0.0 28.358956,-15.415163,0.0 28.360497,-15.415505,0.0 28.360236,-15.417175,0.0 28.357392,-15.418202,0.0 28.357945,-15.419823,0.0 28.357456,-15.421143,0.0 28.357108,-15.423253,0.0 28.356081,-15.427591,0.0 28.354488,-15.434787,0.0 28.353906,-15.435894,0.0 28.353214,-15.435682,0.0 28.342423,-15.429782,0.0 28.338835,-15.427521,0.0 28.337567,-15.42681,0.0 28.334258,-15.423349,0.0 28.330499,-15.42411,0.0 28.330499,-15.424072,0.0 28.331958,-15.418619,0.0 28.330758,-15.415026,0.0 28.335139,-15.413551,0.0 28.336679,-15.413849,0.0 28.336859,-15.413541,0.0 28.337175,-15.413539,0.0 28.337084,-15.413407,0.0 28.337215,-15.412704,0.0 28.342365,-15.411136,0.0 28.345258,-15.410548,0.0 28.344805,-15.408691,0.0 28.345107,-15.408572,0.0 28.3461,-15.4086,0.0 28.345991,-15.408085,0.0 28.351086,-15.406869,0.0 28.351069,-15.407983,0.0 28.351069,-15.407987,0.0 28.351659,-15.407974,0.0 28.353397,-15.407888,0.0 28.353923,-15.407862,0.0 28.354486,-15.407834,0.0 28.355033,-15.407807,0.0 28.355595,-15.407775,0.0 28.356045,-15.407719,0.0 28.356238,-15.407895,0.0 28.356957,-15.407957,0.0 28.357307,-15.408033,0.0 28.357483,-15.408071,0.0 28.357842,-15.408211,0.0 28.357881,-15.408231,0.0 28.358277,-15.408396,0.0 28.358567,-15.408547,0.0 28.358634,-15.408686,0.0 28.358642,-15.408702,0.0 28.358995,-15.408751,0.0 28.359734,-15.409103,0.0 28.360176,-15.409333,0.0 28.360795,-15.409612,0.0 28.360809,-15.409618,0.0 28.361166,-15.409956,0.0 28.361293,-15.410077,0.0 28.361234,-15.410071,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Avondale</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 51<br>
+<b>OBJECTID:</b> 4<br>
+<b>NAME:</b> Avondale<br>
+<b>PCODE:</b> ZMB_TW0011<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>51</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>4</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0011</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.409629,-15.385171,0.0 28.408654,-15.389798,0.0 28.404094,-15.388546,0.0 28.394745,-15.385981,0.0 28.395028,-15.388127,0.0 28.394712,-15.388143,0.0 28.394741,-15.393138,0.0 28.394693,-15.39947,0.0 28.394704,-15.399567,0.0 28.394645,-15.39958,0.0 28.38438,-15.406188,0.0 28.382851,-15.407499,0.0 28.380559,-15.406896,0.0 28.380845,-15.406073,0.0 28.381031,-15.405362,0.0 28.381087,-15.405158,0.0 28.381157,-15.404899,0.0 28.381318,-15.404721,0.0 28.381324,-15.404715,0.0 28.381165,-15.404548,0.0 28.381098,-15.40425,0.0 28.381125,-15.404162,0.0 28.381217,-15.403857,0.0 28.381433,-15.403141,0.0 28.381551,-15.402751,0.0 28.381809,-15.401982,0.0 28.38209,-15.401512,0.0 28.382433,-15.400516,0.0 28.382428,-15.400045,0.0 28.383215,-15.39779,0.0 28.38331,-15.397163,0.0 28.383425,-15.396591,0.0 28.383502,-15.396361,0.0 28.383532,-15.396094,0.0 28.384469,-15.392871,0.0 28.384573,-15.392232,0.0 28.384545,-15.391851,0.0 28.384497,-15.391168,0.0 28.383929,-15.383185,0.0 28.384387,-15.382828,0.0 28.394004,-15.375314,0.0 28.392923,-15.374085,0.0 28.392849,-15.373174,0.0 28.401486,-15.370908,0.0 28.40305,-15.374047,0.0 28.403134,-15.37406,0.0 28.40753,-15.382257,0.0 28.40821,-15.383619,0.0 28.409016,-15.383744,0.0 28.408823,-15.385046,0.0 28.409629,-15.385171,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kaunda square</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 33<br>
+<b>OBJECTID:</b> 5<br>
+<b>NAME:</b> Kaunda square<br>
+<b>PCODE:</b> ZMB_TW0013<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>33</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>5</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0013</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.348152,-15.367993,0.0 28.36604,-15.37553,0.0 28.368393,-15.371277,0.0 28.370361,-15.371876,0.0 28.370394,-15.371692,0.0 28.370375,-15.371409,0.0 28.370322,-15.371126,0.0 28.370405,-15.370725,0.0 28.37066,-15.370256,0.0 28.370676,-15.37009,0.0 28.373818,-15.36967,0.0 28.374466,-15.370091,0.0 28.372465,-15.373626,0.0 28.372128,-15.374482,0.0 28.371496,-15.37609,0.0 28.371117,-15.377054,0.0 28.370768,-15.376961,0.0 28.370869,-15.37805,0.0 28.368768,-15.378607,0.0 28.364171,-15.38072,0.0 28.363631,-15.380968,0.0 28.362364,-15.381551,0.0 28.356512,-15.383159,0.0 28.356285,-15.381769,0.0 28.355009,-15.38217,0.0 28.35543,-15.379808,0.0 28.356647,-15.379922,0.0 28.356919,-15.378498,0.0 28.355701,-15.378233,0.0 28.356153,-15.375901,0.0 28.34685,-15.374112,0.0 28.347054,-15.373157,0.0 28.348152,-15.367993,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kalundu</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 34<br>
+<b>OBJECTID:</b> 6<br>
+<b>NAME:</b> Kalundu<br>
+<b>PCODE:</b> ZMB_TW0016<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>34</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>6</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0016</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.332307,-15.387443,0.0 28.330545,-15.387493,0.0 28.325602,-15.388273,0.0 28.320066,-15.389145,0.0 28.318022,-15.389913,0.0 28.317773,-15.389437,0.0 28.316988,-15.388329,0.0 28.315834,-15.387262,0.0 28.316114,-15.386267,0.0 28.316111,-15.38575,0.0 28.315985,-15.385274,0.0 28.315572,-15.38468,0.0 28.315237,-15.383648,0.0 28.315474,-15.382216,0.0 28.319173,-15.383943,0.0 28.321135,-15.376696,0.0 28.321381,-15.376695,0.0 28.321781,-15.375221,0.0 28.321796,-15.375169,0.0 28.324333,-15.375828,0.0 28.324526,-15.375929,0.0 28.324108,-15.376305,0.0 28.324196,-15.376407,0.0 28.324407,-15.376474,0.0 28.324583,-15.376473,0.0 28.324792,-15.37637,0.0 28.324932,-15.376284,0.0 28.325108,-15.376265,0.0 28.325616,-15.376211,0.0 28.327584,-15.376744,0.0 28.327988,-15.37681,0.0 28.333674,-15.378387,0.0 28.334142,-15.37956,0.0 28.332307,-15.387443,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kabanana</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 52<br>
+<b>OBJECTID:</b> 7<br>
+<b>NAME:</b> Kabanana<br>
+<b>PCODE:</b> ZMB_TW0018<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>52</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>7</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0018</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.327693,-15.33347,0.0 28.327087,-15.33429,0.0 28.32428,-15.335815,0.0 28.321716,-15.336914,0.0 28.318115,-15.339722,0.0 28.314697,-15.341797,0.0 28.312683,-15.343811,0.0 28.311707,-15.347107,0.0 28.311523,-15.350281,0.0 28.311707,-15.351807,0.0 28.31189,-15.352783,0.0 28.311707,-15.353699,0.0 28.311523,-15.354675,0.0 28.31073,-15.355713,0.0 28.310909,-15.356555,0.0 28.309901,-15.357007,0.0 28.309687,-15.357103,0.0 28.308797,-15.357379,0.0 28.307853,-15.357762,0.0 28.306965,-15.358416,0.0 28.305969,-15.359395,0.0 28.305198,-15.360913,0.0 28.304815,-15.361997,0.0 28.30473,-15.362106,0.0 28.30405,-15.361829,0.0 28.30278,-15.361237,0.0 28.300597,-15.359927,0.0 28.300224,-15.359672,0.0 28.299455,-15.359146,0.0 28.299996,-15.357221,0.0 28.300283,-15.3564,0.0 28.300971,-15.352174,0.0 28.301098,-15.351795,0.0 28.301258,-15.35129,0.0 28.302299,-15.351631,0.0 28.302896,-15.351685,0.0 28.302917,-15.351501,0.0 28.301331,-15.350891,0.0 28.299927,-15.350708,0.0 28.298523,-15.350708,0.0 28.298279,-15.347412,0.0 28.297994,-15.344898,0.0 28.297913,-15.344177,0.0 28.299316,-15.344299,0.0 28.299927,-15.344299,0.0 28.304077,-15.339783,0.0 28.325317,-15.329102,0.0 28.326477,-15.328125,0.0 28.327881,-15.327698,0.0 28.328674,-15.3302,0.0 28.328125,-15.332886,0.0 28.327693,-15.33347,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Garden</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 43<br>
+<b>OBJECTID:</b> 8<br>
+<b>NAME:</b> Garden<br>
+<b>PCODE:</b> ZMB_TW0021<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>43</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>8</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0021</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.299878,-15.374459,0.0 28.298806,-15.373937,0.0 28.297314,-15.380206,0.0 28.297052,-15.381518,0.0 28.297025,-15.382101,0.0 28.297525,-15.385184,0.0 28.298407,-15.389459,0.0 28.298808,-15.391291,0.0 28.299022,-15.39196,0.0 28.300743,-15.393639,0.0 28.298085,-15.398271,0.0 28.291045,-15.399384,0.0 28.288839,-15.400268,0.0 28.286222,-15.401557,0.0 28.285728,-15.400614,0.0 28.285732,-15.400555,0.0 28.285173,-15.399485,0.0 28.283508,-15.39849,0.0 28.284127,-15.397883,0.0 28.284121,-15.397012,0.0 28.283838,-15.395874,0.0 28.283758,-15.395721,0.0 28.283349,-15.394938,0.0 28.282256,-15.39308,0.0 28.282092,-15.392801,0.0 28.281859,-15.390975,0.0 28.281802,-15.390523,0.0 28.282587,-15.389495,0.0 28.282624,-15.389446,0.0 28.283657,-15.388904,0.0 28.284966,-15.38836,0.0 28.28593,-15.387819,0.0 28.287027,-15.386405,0.0 28.287569,-15.384659,0.0 28.288567,-15.378487,0.0 28.288824,-15.378001,0.0 28.289455,-15.376806,0.0 28.294175,-15.371849,0.0 28.294486,-15.372061,0.0 28.295067,-15.371406,0.0 28.299426,-15.373543,0.0 28.299876,-15.374135,0.0 28.299878,-15.374459,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Mandevu/Marapodi</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 27<br>
+<b>OBJECTID:</b> 9<br>
+<b>NAME:</b> Mandevu/Marapodi<br>
+<b>PCODE:</b> ZMB_TW0022<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>27</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>9</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0022</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.2911,-15.370663,0.0 28.29328,-15.371343,0.0 28.293801,-15.371592,0.0 28.294175,-15.371849,0.0 28.289455,-15.376806,0.0 28.288824,-15.378001,0.0 28.287956,-15.377759,0.0 28.287285,-15.377582,0.0 28.286613,-15.377117,0.0 28.28594,-15.376688,0.0 28.285379,-15.376113,0.0 28.284744,-15.375756,0.0 28.283141,-15.37526,0.0 28.281578,-15.375233,0.0 28.27998,-15.375531,0.0 28.278051,-15.37648,0.0 28.277187,-15.375149,0.0 28.277129,-15.37501,0.0 28.276831,-15.374291,0.0 28.27647,-15.373421,0.0 28.27631,-15.372505,0.0 28.276161,-15.371654,0.0 28.276351,-15.366129,0.0 28.277887,-15.3666,0.0 28.278554,-15.366805,0.0 28.28444,-15.36861,0.0 28.2911,-15.370663,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kamwala</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 39<br>
+<b>OBJECTID:</b> 10<br>
+<b>NAME:</b> Kamwala<br>
+<b>PCODE:</b> ZMB_TW0026<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>39</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>10</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0026</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.293247,-15.439447,0.0 28.298751,-15.441844,0.0 28.300176,-15.439374,0.0 28.303444,-15.440818,0.0 28.302699,-15.44242,0.0 28.306208,-15.443963,0.0 28.305684,-15.445145,0.0 28.315264,-15.450535,0.0 28.315383,-15.450591,0.0 28.315349,-15.450637,0.0 28.30938,-15.454821,0.0 28.305929,-15.45894,0.0 28.306339,-15.4628,0.0 28.304523,-15.463253,0.0 28.296102,-15.464771,0.0 28.292249,-15.465003,0.0 28.291328,-15.465058,0.0 28.290393,-15.459916,0.0 28.29019,-15.458801,0.0 28.288789,-15.4511,0.0 28.288656,-15.450369,0.0 28.287889,-15.446153,0.0 28.286798,-15.440151,0.0 28.286241,-15.436476,0.0 28.286124,-15.4364,0.0 28.286434,-15.436028,0.0 28.285657,-15.431526,0.0 28.284514,-15.4249,0.0 28.28791,-15.424324,0.0 28.289914,-15.423974,0.0 28.294309,-15.422553,0.0 28.294971,-15.42459,0.0 28.298846,-15.427042,0.0 28.295749,-15.431447,0.0 28.294622,-15.43305,0.0 28.292135,-15.433374,0.0 28.292479,-15.435146,0.0 28.292531,-15.435414,0.0 28.293247,-15.439447,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kabwata</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 22<br>
+<b>OBJECTID:</b> 11<br>
+<b>NAME:</b> Kabwata<br>
+<b>PCODE:</b> ZMB_TW0027<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>22</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>11</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0027</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.302574,-15.430021,0.0 28.310759,-15.436547,0.0 28.312038,-15.437125,0.0 28.31207,-15.437138,0.0 28.311865,-15.438041,0.0 28.310645,-15.44051,0.0 28.309407,-15.439985,0.0 28.308867,-15.441319,0.0 28.307766,-15.440826,0.0 28.3069,-15.442569,0.0 28.306208,-15.443963,0.0 28.302699,-15.44242,0.0 28.303444,-15.440818,0.0 28.300176,-15.439374,0.0 28.300493,-15.438743,0.0 28.30187,-15.436003,0.0 28.299564,-15.434752,0.0 28.295749,-15.431447,0.0 28.298846,-15.427042,0.0 28.298949,-15.427107,0.0 28.301108,-15.428852,0.0 28.302574,-15.430021,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>New Kanyama</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 30<br>
+<b>OBJECTID:</b> 12<br>
+<b>NAME:</b> New Kanyama<br>
+<b>PCODE:</b> ZMB_TW0050<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>30</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>12</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0050</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.266921,-15.416742,0.0 28.267683,-15.422126,0.0 28.273965,-15.421303,0.0 28.274215,-15.423068,0.0 28.270081,-15.426575,0.0 28.264099,-15.431702,0.0 28.263977,-15.431798,0.0 28.258728,-15.435913,0.0 28.257699,-15.434694,0.0 28.2576,-15.434774,0.0 28.253961,-15.430627,0.0 28.254141,-15.430481,0.0 28.254089,-15.43042,0.0 28.256111,-15.42872,0.0 28.258301,-15.42688,0.0 28.257324,-15.425781,0.0 28.257507,-15.424988,0.0 28.254089,-15.424622,0.0 28.252686,-15.424377,0.0 28.248291,-15.423584,0.0 28.248291,-15.422424,0.0 28.245483,-15.422913,0.0 28.245483,-15.421082,0.0 28.246887,-15.421082,0.0 28.248108,-15.420898,0.0 28.252319,-15.419983,0.0 28.253113,-15.4198,0.0 28.256897,-15.419189,0.0 28.266815,-15.41665,0.0 28.266921,-15.416742,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Libala</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 35<br>
+<b>OBJECTID:</b> 13<br>
+<b>NAME:</b> Libala<br>
+<b>PCODE:</b> ZMB_TW0030<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>35</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>13</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0030</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.318164,-15.439564,0.0 28.326612,-15.44291,0.0 28.326693,-15.444873,0.0 28.326939,-15.44577,0.0 28.327425,-15.446765,0.0 28.327668,-15.447229,0.0 28.327637,-15.447695,0.0 28.327577,-15.448993,0.0 28.327794,-15.450596,0.0 28.327973,-15.451919,0.0 28.32837,-15.455011,0.0 28.328301,-15.456617,0.0 28.329834,-15.466812,0.0 28.331007,-15.476201,0.0 28.316174,-15.476959,0.0 28.317702,-15.465953,0.0 28.312111,-15.464496,0.0 28.30872,-15.463834,0.0 28.306339,-15.4628,0.0 28.305929,-15.45894,0.0 28.30938,-15.454821,0.0 28.315349,-15.450637,0.0 28.315467,-15.45063,0.0 28.315383,-15.450591,0.0 28.315264,-15.450535,0.0 28.305684,-15.445145,0.0 28.306208,-15.443963,0.0 28.3069,-15.442569,0.0 28.307766,-15.440826,0.0 28.308867,-15.441319,0.0 28.309407,-15.439985,0.0 28.310645,-15.44051,0.0 28.311865,-15.438041,0.0 28.31207,-15.437138,0.0 28.318164,-15.439564,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Chilenje</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 28<br>
+<b>OBJECTID:</b> 15<br>
+<b>NAME:</b> Chilenje<br>
+<b>PCODE:</b> ZMB_TW0035<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>28</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>15</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0035</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.348102,-15.450699,0.0 28.350915,-15.456106,0.0 28.349718,-15.456645,0.0 28.348513,-15.455954,0.0 28.348305,-15.455656,0.0 28.342096,-15.455627,0.0 28.342037,-15.457091,0.0 28.340733,-15.457066,0.0 28.337753,-15.457816,0.0 28.336003,-15.457727,0.0 28.335864,-15.457494,0.0 28.332841,-15.456814,0.0 28.333043,-15.456247,0.0 28.32837,-15.455011,0.0 28.327973,-15.451919,0.0 28.327794,-15.450596,0.0 28.327577,-15.448993,0.0 28.327637,-15.447695,0.0 28.327668,-15.447229,0.0 28.327425,-15.446765,0.0 28.326939,-15.44577,0.0 28.326693,-15.444873,0.0 28.326612,-15.44291,0.0 28.343341,-15.441246,0.0 28.34472,-15.443984,0.0 28.345691,-15.445913,0.0 28.34809,-15.450676,0.0 28.348102,-15.450699,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Chainda Compound</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 14<br>
+<b>OBJECTID:</b> 16<br>
+<b>NAME:</b> Chainda Compound<br>
+<b>PCODE:</b> ZMB_TW0043<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>14</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>16</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0043</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.394704,-15.399567,0.0 28.394693,-15.39947,0.0 28.394741,-15.393138,0.0 28.394712,-15.388143,0.0 28.395028,-15.388127,0.0 28.394745,-15.385981,0.0 28.404094,-15.388546,0.0 28.408654,-15.389798,0.0 28.412142,-15.390806,0.0 28.412877,-15.396164,0.0 28.412693,-15.396194,0.0 28.405197,-15.397384,0.0 28.405174,-15.397229,0.0 28.394704,-15.399567,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Lilanda</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 19<br>
+<b>OBJECTID:</b> 17<br>
+<b>NAME:</b> Lilanda<br>
+<b>PCODE:</b> ZMB_TW0045<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>19</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>17</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0045</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.247256,-15.36927,0.0 28.24773,-15.370022,0.0 28.248142,-15.370677,0.0 28.247467,-15.371046,0.0 28.247197,-15.372045,0.0 28.246783,-15.373995,0.0 28.246582,-15.373958,0.0 28.24613,-15.373876,0.0 28.245659,-15.376165,0.0 28.245057,-15.379091,0.0 28.242897,-15.378689,0.0 28.243543,-15.375683,0.0 28.243857,-15.374226,0.0 28.244045,-15.373353,0.0 28.244165,-15.372312,0.0 28.244176,-15.372218,0.0 28.244259,-15.371502,0.0 28.24487,-15.368821,0.0 28.247256,-15.36927,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Old Kanyama</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 58<br>
+<b>OBJECTID:</b> 18<br>
+<b>NAME:</b> Old Kanyama<br>
+<b>PCODE:</b> ZMB_TW0029<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>58</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>18</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0029</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.245483,-15.421082,0.0 28.245483,-15.422913,0.0 28.248291,-15.422424,0.0 28.248291,-15.423584,0.0 28.252686,-15.424377,0.0 28.254089,-15.424622,0.0 28.257507,-15.424988,0.0 28.257324,-15.425781,0.0 28.258301,-15.42688,0.0 28.256111,-15.42872,0.0 28.256253,-15.428769,0.0 28.256256,-15.428777,0.0 28.254141,-15.430481,0.0 28.257699,-15.434694,0.0 28.258728,-15.435913,0.0 28.258533,-15.436074,0.0 28.258668,-15.436261,0.0 28.254505,-15.439463,0.0 28.254461,-15.439429,0.0 28.25258,-15.440979,0.0 28.251099,-15.4422,0.0 28.248474,-15.444214,0.0 28.245728,-15.440979,0.0 28.245117,-15.440308,0.0 28.244324,-15.43988,0.0 28.243713,-15.441101,0.0 28.241089,-15.440796,0.0 28.239685,-15.440613,0.0 28.236877,-15.44043,0.0 28.237122,-15.43811,0.0 28.237305,-15.436829,0.0 28.237122,-15.435181,0.0 28.235718,-15.435791,0.0 28.235474,-15.434326,0.0 28.234924,-15.434387,0.0 28.234924,-15.433777,0.0 28.23468,-15.433228,0.0 28.234497,-15.432495,0.0 28.236511,-15.431213,0.0 28.239685,-15.429382,0.0 28.239685,-15.427917,0.0 28.239075,-15.427917,0.0 28.238281,-15.428406,0.0 28.237488,-15.428894,0.0 28.236877,-15.428894,0.0 28.236328,-15.429016,0.0 28.234924,-15.429016,0.0 28.235901,-15.426514,0.0 28.235291,-15.425903,0.0 28.235107,-15.425293,0.0 28.234924,-15.424377,0.0 28.234924,-15.423706,0.0 28.235107,-15.422791,0.0 28.235474,-15.421326,0.0 28.237305,-15.421387,0.0 28.239319,-15.421509,0.0 28.241882,-15.421387,0.0 28.245483,-15.421082,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>John Laing</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 26<br>
+<b>OBJECTID:</b> 19<br>
+<b>NAME:</b> John Laing<br>
+<b>PCODE:</b> ZMB_TW0051<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>26</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>19</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0051</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.267564,-15.453847,0.0 28.266574,-15.455707,0.0 28.265671,-15.45551,0.0 28.263777,-15.456191,0.0 28.253113,-15.460022,0.0 28.25293,-15.456787,0.0 28.251709,-15.453613,0.0 28.250122,-15.448792,0.0 28.249878,-15.447388,0.0 28.249512,-15.446289,0.0 28.248474,-15.444214,0.0 28.25258,-15.440979,0.0 28.254505,-15.439463,0.0 28.258668,-15.436261,0.0 28.263945,-15.431901,0.0 28.275328,-15.431022,0.0 28.275468,-15.431011,0.0 28.275645,-15.431,0.0 28.276123,-15.430969,0.0 28.276672,-15.434021,0.0 28.277527,-15.434509,0.0 28.274636,-15.439924,0.0 28.274622,-15.439953,0.0 28.27284,-15.443758,0.0 28.269821,-15.449531,0.0 28.267564,-15.453847,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Misisi/Kuku</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 68<br>
+<b>OBJECTID:</b> 20<br>
+<b>NAME:</b> Misisi/Kuku<br>
+<b>PCODE:</b> ZMB_TW0052<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>68</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>20</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0052</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.285657,-15.431526,0.0 28.286434,-15.436028,0.0 28.286124,-15.4364,0.0 28.284199,-15.435155,0.0 28.284211,-15.441221,0.0 28.284099,-15.441359,0.0 28.284151,-15.441736,0.0 28.284217,-15.442206,0.0 28.284612,-15.442232,0.0 28.284811,-15.442477,0.0 28.284787,-15.442951,0.0 28.284653,-15.443811,0.0 28.284476,-15.445535,0.0 28.284568,-15.446166,0.0 28.28458,-15.4462,0.0 28.284807,-15.44639,0.0 28.285456,-15.446413,0.0 28.285651,-15.446388,0.0 28.286104,-15.446328,0.0 28.286669,-15.446352,0.0 28.287121,-15.446595,0.0 28.28732,-15.446731,0.0 28.287711,-15.446181,0.0 28.287889,-15.446153,0.0 28.288656,-15.450369,0.0 28.288789,-15.4511,0.0 28.288778,-15.451123,0.0 28.287009,-15.451283,0.0 28.287027,-15.451393,0.0 28.286807,-15.451414,0.0 28.286549,-15.451409,0.0 28.283371,-15.451353,0.0 28.282568,-15.451412,0.0 28.281849,-15.451604,0.0 28.280577,-15.452068,0.0 28.280246,-15.452285,0.0 28.279801,-15.452126,0.0 28.279165,-15.452238,0.0 28.27751,-15.452604,0.0 28.277487,-15.45261,0.0 28.27662,-15.452904,0.0 28.276235,-15.453133,0.0 28.276023,-15.453259,0.0 28.275945,-15.453101,0.0 28.27581,-15.453131,0.0 28.273916,-15.453554,0.0 28.272854,-15.45379,0.0 28.27032,-15.454191,0.0 28.270117,-15.454047,0.0 28.268775,-15.454034,0.0 28.267564,-15.453847,0.0 28.269821,-15.449531,0.0 28.27284,-15.443758,0.0 28.274622,-15.439953,0.0 28.275453,-15.438601,0.0 28.277664,-15.434578,0.0 28.278169,-15.433358,0.0 28.280184,-15.4316,0.0 28.281897,-15.430778,0.0 28.282809,-15.429731,0.0 28.28327,-15.428127,0.0 28.283492,-15.426608,0.0 28.282985,-15.425213,0.0 28.283037,-15.425141,0.0 28.283886,-15.425003,0.0 28.284295,-15.424937,0.0 28.284514,-15.4249,0.0 28.285657,-15.431526,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>John Howard</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 22<br>
+<b>OBJECTID:</b> 21<br>
+<b>NAME:</b> John Howard<br>
+<b>PCODE:</b> ZMB_TW0054<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>22</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>21</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0054</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.279465,-15.466439,0.0 28.283584,-15.465812,0.0 28.284977,-15.465604,0.0 28.286665,-15.465355,0.0 28.289261,-15.464948,0.0 28.291253,-15.46465,0.0 28.291328,-15.465058,0.0 28.29112,-15.465186,0.0 28.292006,-15.470706,0.0 28.292252,-15.472237,0.0 28.292283,-15.472394,0.0 28.29109,-15.472815,0.0 28.29054,-15.472985,0.0 28.288166,-15.473246,0.0 28.286957,-15.473402,0.0 28.285061,-15.473838,0.0 28.284267,-15.47393,0.0 28.280701,-15.474609,0.0 28.279936,-15.469635,0.0 28.27948,-15.467285,0.0 28.27948,-15.466492,0.0 28.279465,-15.466439,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Chawama</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 37<br>
+<b>OBJECTID:</b> 22<br>
+<b>NAME:</b> Chawama<br>
+<b>PCODE:</b> ZMB_TW0061<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>37</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>22</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0061</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.288789,-15.4511,0.0 28.29019,-15.458801,0.0 28.290393,-15.459916,0.0 28.291253,-15.46465,0.0 28.289261,-15.464948,0.0 28.286665,-15.465355,0.0 28.284977,-15.465604,0.0 28.283584,-15.465812,0.0 28.279465,-15.466439,0.0 28.279413,-15.46626,0.0 28.278404,-15.466451,0.0 28.278376,-15.466046,0.0 28.278361,-15.465836,0.0 28.278319,-15.465413,0.0 28.278119,-15.465145,0.0 28.277664,-15.462186,0.0 28.276754,-15.456421,0.0 28.276235,-15.453133,0.0 28.27622,-15.45304,0.0 28.27662,-15.452904,0.0 28.277487,-15.45261,0.0 28.277483,-15.452583,0.0 28.27751,-15.452604,0.0 28.277532,-15.452623,0.0 28.279165,-15.452238,0.0 28.279801,-15.452126,0.0 28.280246,-15.452285,0.0 28.280577,-15.452068,0.0 28.281849,-15.451604,0.0 28.282568,-15.451412,0.0 28.283371,-15.451353,0.0 28.286549,-15.451409,0.0 28.286807,-15.451414,0.0 28.287027,-15.451393,0.0 28.287009,-15.451283,0.0 28.288778,-15.451123,0.0 28.288789,-15.4511,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>George</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 20<br>
+<b>OBJECTID:</b> 23<br>
+<b>NAME:</b> George<br>
+<b>PCODE:</b> ZMB_TW0066<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>20</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>23</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0066</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.242964,-15.378379,0.0 28.242897,-15.378689,0.0 28.245057,-15.379091,0.0 28.248988,-15.379903,0.0 28.248515,-15.382267,0.0 28.248272,-15.382222,0.0 28.24799,-15.383827,0.0 28.247797,-15.384016,0.0 28.247457,-15.384207,0.0 28.246653,-15.387714,0.0 28.24632,-15.389165,0.0 28.244569,-15.388986,0.0 28.241507,-15.389003,0.0 28.238534,-15.387699,0.0 28.234249,-15.386308,0.0 28.232558,-15.385528,0.0 28.236987,-15.375982,0.0 28.240915,-15.378406,0.0 28.242905,-15.378391,0.0 28.242964,-15.378379,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Balaston</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 56<br>
+<b>OBJECTID:</b> 24<br>
+<b>NAME:</b> Balaston<br>
+<b>PCODE:</b> ZMB_TW0070<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>56</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>24</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0070</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.24319,-15.34185,0.0 28.242011,-15.344102,0.0 28.24419,-15.345042,0.0 28.242944,-15.347703,0.0 28.242733,-15.347636,0.0 28.241555,-15.349956,0.0 28.241906,-15.35009,0.0 28.240522,-15.35316,0.0 28.241294,-15.353292,0.0 28.241858,-15.353833,0.0 28.243124,-15.35437,0.0 28.244319,-15.354908,0.0 28.245023,-15.35538,0.0 28.246288,-15.35585,0.0 28.24181,-15.365319,0.0 28.240298,-15.364601,0.0 28.238651,-15.36382,0.0 28.238504,-15.36375,0.0 28.237561,-15.365872,0.0 28.237536,-15.365856,0.0 28.23705,-15.365539,0.0 28.235311,-15.364406,0.0 28.23506,-15.36483,0.0 28.231323,-15.36301,0.0 28.229009,-15.36309,0.0 28.224163,-15.361756,0.0 28.227846,-15.356088,0.0 28.217174,-15.353765,0.0 28.223714,-15.332907,0.0 28.224838,-15.333309,0.0 28.226455,-15.333913,0.0 28.227018,-15.334318,0.0 28.22772,-15.33445,0.0 28.228632,-15.334513,0.0 28.228982,-15.334511,0.0 28.229966,-15.334846,0.0 28.230806,-15.334637,0.0 28.231438,-15.334838,0.0 28.231931,-15.335176,0.0 28.232355,-15.33565,0.0 28.232917,-15.335783,0.0 28.233902,-15.336458,0.0 28.234465,-15.336795,0.0 28.235027,-15.336928,0.0 28.23622,-15.337193,0.0 28.236853,-15.33753,0.0 28.237418,-15.338139,0.0 28.237842,-15.338681,0.0 28.238406,-15.339291,0.0 28.2389,-15.339696,0.0 28.239322,-15.339898,0.0 28.24066,-15.340911,0.0 28.241292,-15.341112,0.0 28.241924,-15.341312,0.0 28.242417,-15.341582,0.0 28.24319,-15.34185,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Makeni</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 27<br>
+<b>OBJECTID:</b> 25<br>
+<b>NAME:</b> Makeni<br>
+<b>PCODE:</b> ZMB_TW0071<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>27</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>25</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0071</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.249878,-15.447388,0.0 28.250122,-15.448792,0.0 28.251709,-15.453613,0.0 28.25293,-15.456787,0.0 28.253113,-15.460022,0.0 28.263777,-15.456191,0.0 28.265671,-15.45551,0.0 28.266574,-15.455707,0.0 28.263077,-15.462182,0.0 28.262395,-15.464001,0.0 28.262342,-15.466691,0.0 28.261902,-15.469299,0.0 28.261719,-15.471497,0.0 28.260498,-15.475403,0.0 28.256897,-15.481812,0.0 28.254517,-15.485413,0.0 28.253479,-15.486084,0.0 28.248291,-15.49231,0.0 28.236694,-15.501404,0.0 28.225098,-15.469727,0.0 28.224915,-15.468628,0.0 28.219299,-15.454895,0.0 28.225281,-15.452881,0.0 28.24292,-15.447388,0.0 28.246277,-15.446106,0.0 28.248474,-15.444214,0.0 28.249878,-15.447388,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Nyumba Yanga</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 65<br>
+<b>OBJECTID:</b> 26<br>
+<b>NAME:</b> Nyumba Yanga<br>
+<b>PCODE:</b> ZMB_TW0074<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>65</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>26</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0074</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.358204,-15.43806,0.0 28.358419,-15.438168,0.0 28.358562,-15.438244,0.0 28.35891,-15.43843,0.0 28.359592,-15.438792,0.0 28.36057,-15.439298,0.0 28.361101,-15.439572,0.0 28.36486,-15.441512,0.0 28.366151,-15.442179,0.0 28.367035,-15.442681,0.0 28.367534,-15.443034,0.0 28.367795,-15.443218,0.0 28.368284,-15.443571,0.0 28.368333,-15.44351,0.0 28.36861,-15.443805,0.0 28.368725,-15.443887,0.0 28.368774,-15.443922,0.0 28.369402,-15.444364,0.0 28.369608,-15.444509,0.0 28.369623,-15.444501,0.0 28.370095,-15.444865,0.0 28.370713,-15.445317,0.0 28.371038,-15.445592,0.0 28.371056,-15.445606,0.0 28.37106,-15.445611,0.0 28.37119,-15.445721,0.0 28.371632,-15.446192,0.0 28.372024,-15.446619,0.0 28.37241,-15.447077,0.0 28.372664,-15.447378,0.0 28.372745,-15.447472,0.0 28.372715,-15.447511,0.0 28.373414,-15.448448,0.0 28.377398,-15.45302,0.0 28.378685,-15.454551,0.0 28.372494,-15.459353,0.0 28.36714,-15.452926,0.0 28.364795,-15.450116,0.0 28.364802,-15.450073,0.0 28.364525,-15.45013,0.0 28.36399,-15.450239,0.0 28.36003,-15.450366,0.0 28.35964,-15.450654,0.0 28.358757,-15.450754,0.0 28.358608,-15.450517,0.0 28.358259,-15.449663,0.0 28.359384,-15.449084,0.0 28.360435,-15.444604,0.0 28.360379,-15.444592,0.0 28.355225,-15.443541,0.0 28.355129,-15.443448,0.0 28.35497,-15.443296,0.0 28.354732,-15.443068,0.0 28.355045,-15.442667,0.0 28.355218,-15.442446,0.0 28.355174,-15.441962,0.0 28.355113,-15.441304,0.0 28.35514,-15.440744,0.0 28.355156,-15.440399,0.0 28.355638,-15.43945,0.0 28.35561,-15.439441,0.0 28.356593,-15.437389,0.0 28.356428,-15.437297,0.0 28.356478,-15.437191,0.0 28.358204,-15.43806,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kanyama West</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 39<br>
+<b>OBJECTID:</b> 27<br>
+<b>NAME:</b> Kanyama West<br>
+<b>PCODE:</b> ZMB_TW0078<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>39</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>27</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0078</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.235901,-15.426514,0.0 28.234924,-15.429016,0.0 28.236328,-15.429016,0.0 28.236877,-15.428894,0.0 28.237488,-15.428894,0.0 28.238281,-15.428406,0.0 28.239075,-15.427917,0.0 28.239685,-15.427917,0.0 28.239685,-15.429382,0.0 28.236511,-15.431213,0.0 28.234497,-15.432495,0.0 28.23468,-15.433228,0.0 28.234924,-15.433777,0.0 28.234924,-15.434387,0.0 28.235474,-15.434326,0.0 28.235718,-15.435791,0.0 28.237122,-15.435181,0.0 28.237305,-15.436829,0.0 28.237122,-15.43811,0.0 28.236877,-15.44043,0.0 28.239685,-15.440613,0.0 28.241089,-15.440796,0.0 28.243713,-15.441101,0.0 28.244324,-15.43988,0.0 28.245117,-15.440308,0.0 28.245728,-15.440979,0.0 28.248474,-15.444214,0.0 28.246277,-15.446106,0.0 28.24292,-15.447388,0.0 28.225281,-15.452881,0.0 28.219299,-15.454895,0.0 28.20752,-15.419495,0.0 28.235474,-15.421326,0.0 28.235107,-15.422791,0.0 28.234924,-15.423706,0.0 28.234924,-15.424377,0.0 28.235107,-15.425293,0.0 28.235291,-15.425903,0.0 28.235901,-15.426514,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Chibolya</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 23<br>
+<b>OBJECTID:</b> 31<br>
+<b>NAME:</b> Chibolya<br>
+<b>PCODE:</b> ZMB_TW0002<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>23</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>31</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0002</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.274781,-15.426391,0.0 28.274816,-15.426475,0.0 28.283037,-15.425141,0.0 28.282985,-15.425213,0.0 28.283492,-15.426608,0.0 28.28327,-15.428127,0.0 28.282809,-15.429731,0.0 28.281897,-15.430778,0.0 28.280184,-15.4316,0.0 28.278169,-15.433358,0.0 28.277664,-15.434578,0.0 28.276672,-15.434021,0.0 28.276123,-15.430969,0.0 28.275645,-15.431,0.0 28.275468,-15.431011,0.0 28.275328,-15.431022,0.0 28.263945,-15.431901,0.0 28.263977,-15.431798,0.0 28.264099,-15.431702,0.0 28.270081,-15.426575,0.0 28.274215,-15.423068,0.0 28.274677,-15.426324,0.0 28.274781,-15.426391,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Ng'ombe</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 69<br>
+<b>OBJECTID:</b> 33<br>
+<b>NAME:</b> Ng'ombe<br>
+<b>PCODE:</b> ZMB_TW0004<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>69</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>33</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0004</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.350144,-15.351803,0.0 28.350288,-15.35197,0.0 28.35006,-15.35189,0.0 28.34781,-15.356946,0.0 28.346738,-15.356387,0.0 28.345589,-15.358938,0.0 28.341303,-15.356938,0.0 28.337537,-15.360306,0.0 28.339932,-15.362836,0.0 28.337614,-15.364829,0.0 28.338254,-15.366192,0.0 28.337969,-15.36936,0.0 28.332086,-15.369939,0.0 28.332085,-15.369943,0.0 28.332117,-15.370137,0.0 28.332121,-15.370164,0.0 28.332158,-15.370317,0.0 28.332212,-15.370589,0.0 28.332213,-15.370793,0.0 28.332197,-15.37098,0.0 28.33211,-15.371134,0.0 28.332076,-15.371322,0.0 28.33206,-15.37156,0.0 28.331939,-15.371799,0.0 28.331835,-15.372055,0.0 28.331784,-15.372328,0.0 28.331803,-15.372549,0.0 28.331822,-15.372736,0.0 28.3317,-15.372873,0.0 28.331456,-15.373062,0.0 28.331352,-15.373283,0.0 28.33123,-15.373437,0.0 28.330317,-15.373256,0.0 28.329794,-15.373906,0.0 28.330321,-15.374022,0.0 28.329904,-15.374535,0.0 28.329519,-15.374673,0.0 28.328193,-15.375873,0.0 28.327988,-15.37681,0.0 28.327584,-15.376744,0.0 28.325616,-15.376211,0.0 28.325108,-15.376265,0.0 28.324932,-15.376284,0.0 28.324792,-15.37637,0.0 28.324583,-15.376473,0.0 28.324407,-15.376474,0.0 28.324196,-15.376407,0.0 28.324108,-15.376305,0.0 28.324526,-15.375929,0.0 28.324333,-15.375828,0.0 28.321796,-15.375169,0.0 28.321767,-15.375162,0.0 28.320004,-15.373777,0.0 28.320039,-15.373713,0.0 28.320098,-15.373606,0.0 28.317877,-15.372165,0.0 28.317874,-15.372143,0.0 28.318084,-15.372298,0.0 28.320009,-15.36834,0.0 28.32131,-15.364038,0.0 28.321273,-15.363963,0.0 28.321411,-15.363587,0.0 28.321189,-15.363537,0.0 28.321191,-15.363536,0.0 28.323145,-15.357498,0.0 28.32781,-15.343822,0.0 28.328304,-15.343882,0.0 28.344045,-15.349237,0.0 28.350144,-15.351803,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kalingalinga</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 26<br>
+<b>OBJECTID:</b> 34<br>
+<b>NAME:</b> Kalingalinga<br>
+<b>PCODE:</b> ZMB_TW0005<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>26</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>34</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0005</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.339478,-15.402119,0.0 28.339394,-15.402483,0.0 28.339678,-15.402481,0.0 28.339997,-15.402513,0.0 28.34028,-15.402408,0.0 28.340457,-15.402339,0.0 28.340883,-15.402336,0.0 28.34145,-15.402367,0.0 28.341804,-15.402227,0.0 28.342051,-15.402088,0.0 28.34237,-15.401983,0.0 28.342809,-15.401919,0.0 28.344614,-15.408767,0.0 28.344577,-15.408782,0.0 28.340187,-15.410047,0.0 28.337815,-15.409196,0.0 28.337806,-15.409235,0.0 28.329177,-15.407429,0.0 28.329144,-15.407398,0.0 28.329235,-15.407417,0.0 28.329466,-15.406398,0.0 28.330398,-15.402276,0.0 28.330667,-15.401086,0.0 28.330705,-15.400885,0.0 28.338981,-15.402507,0.0 28.339478,-15.402119,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Helen Kaunda</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 21<br>
+<b>OBJECTID:</b> 35<br>
+<b>NAME:</b> Helen Kaunda<br>
+<b>PCODE:</b> ZMB_TW0007<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>21</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>35</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0007</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.344614,-15.408767,0.0 28.342809,-15.401919,0.0 28.342866,-15.401911,0.0 28.343078,-15.401772,0.0 28.343218,-15.401599,0.0 28.343608,-15.401494,0.0 28.344033,-15.401422,0.0 28.344245,-15.401318,0.0 28.344279,-15.401111,0.0 28.34442,-15.400973,0.0 28.346034,-15.400563,0.0 28.34605,-15.400825,0.0 28.350047,-15.40462,0.0 28.350655,-15.405408,0.0 28.351089,-15.406712,0.0 28.351086,-15.406869,0.0 28.345991,-15.408085,0.0 28.3461,-15.4086,0.0 28.345107,-15.408572,0.0 28.344805,-15.408691,0.0 28.344614,-15.408767,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Ibex Hill</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 82<br>
+<b>OBJECTID:</b> 36<br>
+<b>NAME:</b> Ibex Hill<br>
+<b>PCODE:</b> ZMB_TW0009<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>82</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>36</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0009</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.362204,-15.410322,0.0 28.362208,-15.410324,0.0 28.362388,-15.410251,0.0 28.362579,-15.410181,0.0 28.363141,-15.410063,0.0 28.363825,-15.409919,0.0 28.364903,-15.409659,0.0 28.365326,-15.409539,0.0 28.365768,-15.409414,0.0 28.366055,-15.409333,0.0 28.366392,-15.409191,0.0 28.366742,-15.409043,0.0 28.367005,-15.40915,0.0 28.367641,-15.409081,0.0 28.367847,-15.409094,0.0 28.368078,-15.409091,0.0 28.368417,-15.409087,0.0 28.368994,-15.40908,0.0 28.369923,-15.40916,0.0 28.37016,-15.40908,0.0 28.370069,-15.408196,0.0 28.372212,-15.40853,0.0 28.372783,-15.408726,0.0 28.37369,-15.409089,0.0 28.374739,-15.40945,0.0 28.37535,-15.409624,0.0 28.375661,-15.40967,0.0 28.376045,-15.40973,0.0 28.376227,-15.409712,0.0 28.376359,-15.409683,0.0 28.376485,-15.409732,0.0 28.376624,-15.409921,0.0 28.376739,-15.41001,0.0 28.376745,-15.410014,0.0 28.376897,-15.410065,0.0 28.377407,-15.410192,0.0 28.37744,-15.4102,0.0 28.378128,-15.410388,0.0 28.378598,-15.410518,0.0 28.378919,-15.410608,0.0 28.37899,-15.410671,0.0 28.379038,-15.410775,0.0 28.379223,-15.41073,0.0 28.379355,-15.410721,0.0 28.37936,-15.410573,0.0 28.379416,-15.410273,0.0 28.379582,-15.409708,0.0 28.379907,-15.408817,0.0 28.380052,-15.408401,0.0 28.380135,-15.408244,0.0 28.380283,-15.407964,0.0 28.380559,-15.406896,0.0 28.382851,-15.407499,0.0 28.38438,-15.406188,0.0 28.394645,-15.39958,0.0 28.405174,-15.397229,0.0 28.405197,-15.397384,0.0 28.412693,-15.396194,0.0 28.414454,-15.409312,0.0 28.411589,-15.414307,0.0 28.41092,-15.415212,0.0 28.38961,-15.42428,0.0 28.373442,-15.43104,0.0 28.37339,-15.431062,0.0 28.35629,-15.42759,0.0 28.356081,-15.427591,0.0 28.357108,-15.423253,0.0 28.357456,-15.421143,0.0 28.357945,-15.419823,0.0 28.357392,-15.418202,0.0 28.360236,-15.417175,0.0 28.360497,-15.415505,0.0 28.358956,-15.415163,0.0 28.359173,-15.413756,0.0 28.360486,-15.41388,0.0 28.361333,-15.411767,0.0 28.361451,-15.411334,0.0 28.361584,-15.410572,0.0 28.361263,-15.410265,0.0 28.361342,-15.410123,0.0 28.362102,-15.410155,0.0 28.362204,-15.410322,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Chelston</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 26<br>
+<b>OBJECTID:</b> 37<br>
+<b>NAME:</b> Chelston<br>
+<b>PCODE:</b> ZMB_TW0060<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>26</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>37</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0060</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.401486,-15.370908,0.0 28.392849,-15.373174,0.0 28.392923,-15.374085,0.0 28.394004,-15.375314,0.0 28.384387,-15.382828,0.0 28.383929,-15.383185,0.0 28.371153,-15.378059,0.0 28.37108,-15.377148,0.0 28.371117,-15.377054,0.0 28.371496,-15.37609,0.0 28.372128,-15.374482,0.0 28.374695,-15.373948,0.0 28.380453,-15.372529,0.0 28.381731,-15.37187,0.0 28.383642,-15.369882,0.0 28.386922,-15.366238,0.0 28.387631,-15.36547,0.0 28.38852,-15.365129,0.0 28.390202,-15.365361,0.0 28.392607,-15.365675,0.0 28.39365,-15.36575,0.0 28.395475,-15.362403,0.0 28.395559,-15.362311,0.0 28.403729,-15.365428,0.0 28.401475,-15.369346,0.0 28.401486,-15.370908,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kamanga</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 15<br>
+<b>OBJECTID:</b> 38<br>
+<b>NAME:</b> Kamanga<br>
+<b>PCODE:</b> ZMB_TW0012<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>15</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>38</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0012</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.374466,-15.370091,0.0 28.373818,-15.36967,0.0 28.370676,-15.37009,0.0 28.37066,-15.370256,0.0 28.370405,-15.370725,0.0 28.370322,-15.371126,0.0 28.370375,-15.371409,0.0 28.370394,-15.371692,0.0 28.370361,-15.371876,0.0 28.368105,-15.371189,0.0 28.368919,-15.369417,0.0 28.366954,-15.368562,0.0 28.369429,-15.363294,0.0 28.376585,-15.366347,0.0 28.374466,-15.370091,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Chudleigh</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 35<br>
+<b>OBJECTID:</b> 39<br>
+<b>NAME:</b> Chudleigh<br>
+<b>PCODE:</b> ZMB_TW0014<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>35</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>39</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0014</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.34553,-15.372853,0.0 28.343822,-15.381132,0.0 28.335859,-15.378993,0.0 28.333674,-15.378387,0.0 28.327988,-15.37681,0.0 28.328193,-15.375873,0.0 28.329519,-15.374673,0.0 28.329904,-15.374535,0.0 28.330321,-15.374022,0.0 28.329794,-15.373906,0.0 28.330317,-15.373256,0.0 28.33123,-15.373437,0.0 28.331352,-15.373283,0.0 28.331456,-15.373062,0.0 28.3317,-15.372873,0.0 28.331822,-15.372736,0.0 28.331803,-15.372549,0.0 28.331784,-15.372328,0.0 28.331835,-15.372055,0.0 28.331939,-15.371799,0.0 28.33206,-15.37156,0.0 28.332076,-15.371322,0.0 28.33211,-15.371134,0.0 28.332197,-15.37098,0.0 28.332213,-15.370793,0.0 28.332212,-15.370589,0.0 28.332158,-15.370317,0.0 28.332121,-15.370164,0.0 28.332117,-15.370137,0.0 28.332085,-15.369943,0.0 28.332086,-15.369939,0.0 28.337969,-15.36936,0.0 28.338027,-15.370006,0.0 28.338146,-15.371347,0.0 28.34553,-15.372853,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Mwambula</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 10<br>
+<b>OBJECTID:</b> 40<br>
+<b>NAME:</b> Mwambula<br>
+<b>PCODE:</b> ZMB_TW0015<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>10</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>40</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0015</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.343822,-15.381132,0.0 28.342548,-15.386904,0.0 28.34252,-15.386911,0.0 28.340257,-15.387514,0.0 28.338497,-15.387883,0.0 28.332307,-15.387443,0.0 28.334142,-15.37956,0.0 28.333674,-15.378387,0.0 28.335859,-15.378993,0.0 28.343822,-15.381132,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Roma</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 78<br>
+<b>OBJECTID:</b> 41<br>
+<b>NAME:</b> Roma<br>
+<b>PCODE:</b> ZMB_TW0017<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>78</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>41</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0017</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.32781,-15.343822,0.0 28.323145,-15.357498,0.0 28.321191,-15.363536,0.0 28.321189,-15.363537,0.0 28.320391,-15.363355,0.0 28.320266,-15.363344,0.0 28.319653,-15.363291,0.0 28.319232,-15.363294,0.0 28.318703,-15.363024,0.0 28.318282,-15.363163,0.0 28.318144,-15.363505,0.0 28.317799,-15.364529,0.0 28.314345,-15.362777,0.0 28.313956,-15.36237,0.0 28.313709,-15.362133,0.0 28.313671,-15.36169,0.0 28.313844,-15.361212,0.0 28.313877,-15.360905,0.0 28.313699,-15.360599,0.0 28.313312,-15.360397,0.0 28.312713,-15.36023,0.0 28.31215,-15.360063,0.0 28.312031,-15.360035,0.0 28.312046,-15.360062,0.0 28.310711,-15.360503,0.0 28.309464,-15.365916,0.0 28.317316,-15.37173,0.0 28.317874,-15.372143,0.0 28.317877,-15.372165,0.0 28.320098,-15.373606,0.0 28.320039,-15.373713,0.0 28.320004,-15.373777,0.0 28.321767,-15.375162,0.0 28.321796,-15.375169,0.0 28.321781,-15.375221,0.0 28.321381,-15.376695,0.0 28.321135,-15.376696,0.0 28.319173,-15.383943,0.0 28.315474,-15.382216,0.0 28.299878,-15.374459,0.0 28.299876,-15.374135,0.0 28.299426,-15.373543,0.0 28.295067,-15.371406,0.0 28.298057,-15.368361,0.0 28.299168,-15.367814,0.0 28.300503,-15.367428,0.0 28.301725,-15.36688,0.0 28.302669,-15.36628,0.0 28.303275,-15.365304,0.0 28.303713,-15.364058,0.0 28.304096,-15.36292,0.0 28.30473,-15.362106,0.0 28.304815,-15.361997,0.0 28.305198,-15.360913,0.0 28.305969,-15.359395,0.0 28.306965,-15.358416,0.0 28.307853,-15.357762,0.0 28.308797,-15.357379,0.0 28.309687,-15.357103,0.0 28.309901,-15.357007,0.0 28.310909,-15.356555,0.0 28.31073,-15.355713,0.0 28.311523,-15.354675,0.0 28.311707,-15.353699,0.0 28.31189,-15.352783,0.0 28.311707,-15.351807,0.0 28.311523,-15.350281,0.0 28.311707,-15.347107,0.0 28.312683,-15.343811,0.0 28.314697,-15.341797,0.0 28.318115,-15.339722,0.0 28.321716,-15.336914,0.0 28.32428,-15.335815,0.0 28.327087,-15.33429,0.0 28.327693,-15.33347,0.0 28.330375,-15.33573,0.0 28.328564,-15.341612,0.0 28.32781,-15.343822,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Chipata</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 37<br>
+<b>OBJECTID:</b> 42<br>
+<b>NAME:</b> Chipata<br>
+<b>PCODE:</b> ZMB_TW0019<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>37</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>42</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0019</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.290259,-15.353874,0.0 28.293277,-15.355543,0.0 28.29365,-15.354697,0.0 28.293707,-15.354689,0.0 28.295114,-15.355453,0.0 28.294696,-15.356149,0.0 28.294698,-15.35637,0.0 28.297306,-15.358119,0.0 28.298153,-15.358492,0.0 28.299455,-15.359146,0.0 28.300224,-15.359672,0.0 28.300597,-15.359927,0.0 28.30278,-15.361237,0.0 28.30405,-15.361829,0.0 28.30473,-15.362106,0.0 28.304096,-15.36292,0.0 28.303713,-15.364058,0.0 28.303275,-15.365304,0.0 28.302669,-15.36628,0.0 28.301725,-15.36688,0.0 28.300503,-15.367428,0.0 28.299168,-15.367814,0.0 28.298057,-15.368361,0.0 28.295067,-15.371406,0.0 28.294486,-15.372061,0.0 28.294175,-15.371849,0.0 28.293801,-15.371592,0.0 28.29328,-15.371343,0.0 28.2911,-15.370663,0.0 28.29234,-15.369017,0.0 28.28531,-15.359716,0.0 28.285309,-15.359714,0.0 28.285991,-15.359044,0.0 28.286996,-15.359535,0.0 28.287945,-15.35793,0.0 28.287341,-15.357566,0.0 28.290259,-15.353874,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Olympia</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 31<br>
+<b>OBJECTID:</b> 43<br>
+<b>NAME:</b> Olympia<br>
+<b>PCODE:</b> ZMB_TW0020<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>31</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>43</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0020</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.318022,-15.389913,0.0 28.31747,-15.390366,0.0 28.316173,-15.391655,0.0 28.315348,-15.392356,0.0 28.314411,-15.393151,0.0 28.31053,-15.396406,0.0 28.309247,-15.397549,0.0 28.307977,-15.396159,0.0 28.306246,-15.397683,0.0 28.303935,-15.395192,0.0 28.303386,-15.393885,0.0 28.300743,-15.393639,0.0 28.299022,-15.39196,0.0 28.298808,-15.391291,0.0 28.298407,-15.389459,0.0 28.297525,-15.385184,0.0 28.297025,-15.382101,0.0 28.297052,-15.381518,0.0 28.297314,-15.380206,0.0 28.298806,-15.373937,0.0 28.299878,-15.374459,0.0 28.315474,-15.382216,0.0 28.315237,-15.383648,0.0 28.315572,-15.38468,0.0 28.315985,-15.385274,0.0 28.316111,-15.38575,0.0 28.316114,-15.386267,0.0 28.315834,-15.387262,0.0 28.316988,-15.388329,0.0 28.317773,-15.389437,0.0 28.318022,-15.389913,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Light Industrial Area</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 20<br>
+<b>OBJECTID:</b> 44<br>
+<b>NAME:</b> Light Industrial Area<br>
+<b>PCODE:</b> ZMB_TW0023<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>20</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>44</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0023</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.283237,-15.41613,0.0 28.284514,-15.4249,0.0 28.284295,-15.424937,0.0 28.283886,-15.425003,0.0 28.283037,-15.425141,0.0 28.274816,-15.426475,0.0 28.274781,-15.426391,0.0 28.274677,-15.426324,0.0 28.274215,-15.423068,0.0 28.273965,-15.421303,0.0 28.273254,-15.416288,0.0 28.277305,-15.41563,0.0 28.277166,-15.414235,0.0 28.276897,-15.41301,0.0 28.276367,-15.411998,0.0 28.277453,-15.411273,0.0 28.278754,-15.410166,0.0 28.28014,-15.408635,0.0 28.282106,-15.408363,0.0 28.283237,-15.41613,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Town Centre</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 12<br>
+<b>OBJECTID:</b> 45<br>
+<b>NAME:</b> Town Centre<br>
+<b>PCODE:</b> ZMB_TW0024<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>12</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>45</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0024</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.292215,-15.415332,0.0 28.292222,-15.416474,0.0 28.293149,-15.418372,0.0 28.294309,-15.422553,0.0 28.289914,-15.423974,0.0 28.28791,-15.424324,0.0 28.284514,-15.4249,0.0 28.283237,-15.41613,0.0 28.283461,-15.416087,0.0 28.283467,-15.416129,0.0 28.289055,-15.415068,0.0 28.292215,-15.415332,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Thornpark</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 12<br>
+<b>OBJECTID:</b> 46<br>
+<b>NAME:</b> Thornpark<br>
+<b>PCODE:</b> ZMB_TW0025<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>12</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>46</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0025</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.289044,-15.405604,0.0 28.290334,-15.414826,0.0 28.289055,-15.415068,0.0 28.288674,-15.415109,0.0 28.283236,-15.416141,0.0 28.282107,-15.408383,0.0 28.282395,-15.408339,0.0 28.282412,-15.408317,0.0 28.282332,-15.408329,0.0 28.282096,-15.40671,0.0 28.284454,-15.406356,0.0 28.289044,-15.405604,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>New Kabwata</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 12<br>
+<b>OBJECTID:</b> 47<br>
+<b>NAME:</b> New Kabwata<br>
+<b>PCODE:</b> ZMB_TW0028<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>12</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>47</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0028</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.300176,-15.439374,0.0 28.298751,-15.441844,0.0 28.293247,-15.439447,0.0 28.292531,-15.435414,0.0 28.292479,-15.435146,0.0 28.292135,-15.433374,0.0 28.294622,-15.43305,0.0 28.295749,-15.431447,0.0 28.299564,-15.434752,0.0 28.30187,-15.436003,0.0 28.300493,-15.438743,0.0 28.300176,-15.439374,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Chaisa</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 43<br>
+<b>OBJECTID:</b> 48<br>
+<b>NAME:</b> Chaisa<br>
+<b>PCODE:</b> ZMB_TW0031<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>43</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>48</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0031</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.288824,-15.378001,0.0 28.288567,-15.378487,0.0 28.287569,-15.384659,0.0 28.287027,-15.386405,0.0 28.28593,-15.387819,0.0 28.284966,-15.38836,0.0 28.283657,-15.388904,0.0 28.282624,-15.389446,0.0 28.282587,-15.389495,0.0 28.281802,-15.390523,0.0 28.281859,-15.390975,0.0 28.280194,-15.390677,0.0 28.280147,-15.388223,0.0 28.281011,-15.388187,0.0 28.281037,-15.387131,0.0 28.28103,-15.386044,0.0 28.283266,-15.38513,0.0 28.283646,-15.384445,0.0 28.281465,-15.383867,0.0 28.282828,-15.381592,0.0 28.283663,-15.382053,0.0 28.283726,-15.381835,0.0 28.284141,-15.381615,0.0 28.28436,-15.38093,0.0 28.283943,-15.380684,0.0 28.283046,-15.38069,0.0 28.281794,-15.380044,0.0 28.282334,-15.379327,0.0 28.281115,-15.378992,0.0 28.281174,-15.378153,0.0 28.278743,-15.378571,0.0 28.278675,-15.377795,0.0 28.278051,-15.37648,0.0 28.27998,-15.375531,0.0 28.281578,-15.375233,0.0 28.283141,-15.37526,0.0 28.284744,-15.375756,0.0 28.285379,-15.376113,0.0 28.28594,-15.376688,0.0 28.286613,-15.377117,0.0 28.287285,-15.377582,0.0 28.287956,-15.377759,0.0 28.288824,-15.378001,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Northmead</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 48<br>
+<b>OBJECTID:</b> 49<br>
+<b>NAME:</b> Northmead<br>
+<b>PCODE:</b> ZMB_TW0032<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>48</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>49</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0032</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.309247,-15.397549,0.0 28.306197,-15.400223,0.0 28.307105,-15.401124,0.0 28.307415,-15.401432,0.0 28.307804,-15.402175,0.0 28.307826,-15.402247,0.0 28.308131,-15.40323,0.0 28.308393,-15.404223,0.0 28.308271,-15.405218,0.0 28.308186,-15.40634,0.0 28.305765,-15.405702,0.0 28.303282,-15.405978,0.0 28.303356,-15.407084,0.0 28.301745,-15.407159,0.0 28.300337,-15.407493,0.0 28.300612,-15.408468,0.0 28.300479,-15.408665,0.0 28.293369,-15.409748,0.0 28.293927,-15.413262,0.0 28.292719,-15.413334,0.0 28.292723,-15.413986,0.0 28.292215,-15.415332,0.0 28.289055,-15.415068,0.0 28.290334,-15.414826,0.0 28.289044,-15.405604,0.0 28.284454,-15.406356,0.0 28.282096,-15.40671,0.0 28.282332,-15.408329,0.0 28.282106,-15.408363,0.0 28.28119,-15.402535,0.0 28.281142,-15.401916,0.0 28.281225,-15.401189,0.0 28.28142,-15.400633,0.0 28.2819,-15.399882,0.0 28.283508,-15.39849,0.0 28.285173,-15.399485,0.0 28.285732,-15.400555,0.0 28.285728,-15.400614,0.0 28.286222,-15.401557,0.0 28.288839,-15.400268,0.0 28.291045,-15.399384,0.0 28.298085,-15.398271,0.0 28.300743,-15.393639,0.0 28.303386,-15.393885,0.0 28.303935,-15.395192,0.0 28.306246,-15.397683,0.0 28.307977,-15.396159,0.0 28.309247,-15.397549,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Rhodes Park</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 36<br>
+<b>OBJECTID:</b> 50<br>
+<b>NAME:</b> Rhodes Park<br>
+<b>PCODE:</b> ZMB_TW0033<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>36</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>50</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0033</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.330398,-15.402276,0.0 28.329466,-15.406398,0.0 28.329235,-15.407417,0.0 28.329144,-15.407398,0.0 28.326955,-15.406932,0.0 28.325342,-15.407298,0.0 28.32139,-15.409673,0.0 28.319781,-15.410751,0.0 28.318954,-15.412067,0.0 28.315781,-15.417117,0.0 28.314627,-15.417518,0.0 28.314304,-15.416839,0.0 28.313599,-15.416348,0.0 28.303883,-15.413744,0.0 28.300486,-15.41135,0.0 28.297816,-15.412913,0.0 28.293927,-15.413262,0.0 28.293369,-15.409748,0.0 28.300479,-15.408665,0.0 28.300612,-15.408468,0.0 28.300337,-15.407493,0.0 28.301745,-15.407159,0.0 28.303356,-15.407084,0.0 28.303282,-15.405978,0.0 28.305765,-15.405702,0.0 28.308186,-15.40634,0.0 28.308271,-15.405218,0.0 28.308393,-15.404223,0.0 28.308131,-15.40323,0.0 28.307826,-15.402247,0.0 28.308258,-15.402151,0.0 28.309191,-15.403446,0.0 28.318901,-15.403747,0.0 28.319183,-15.404508,0.0 28.324987,-15.401199,0.0 28.330398,-15.402276,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Woodlands Extension</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 45<br>
+<b>OBJECTID:</b> 51<br>
+<b>NAME:</b> Woodlands Extension<br>
+<b>PCODE:</b> ZMB_TW0036<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>45</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>51</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0036</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.358552,-15.450482,0.0 28.358757,-15.450754,0.0 28.35964,-15.450654,0.0 28.36003,-15.450366,0.0 28.36399,-15.450239,0.0 28.364525,-15.45013,0.0 28.364795,-15.450116,0.0 28.372494,-15.459353,0.0 28.378685,-15.454551,0.0 28.387932,-15.4651,0.0 28.367124,-15.465353,0.0 28.351588,-15.462529,0.0 28.351887,-15.457448,0.0 28.350915,-15.456106,0.0 28.348102,-15.450699,0.0 28.348129,-15.450673,0.0 28.348093,-15.450673,0.0 28.34809,-15.450676,0.0 28.345691,-15.445913,0.0 28.34472,-15.443984,0.0 28.349387,-15.44183,0.0 28.349863,-15.441362,0.0 28.350337,-15.440513,0.0 28.352462,-15.438767,0.0 28.353045,-15.437512,0.0 28.353906,-15.435894,0.0 28.356478,-15.437191,0.0 28.356428,-15.437297,0.0 28.356424,-15.437306,0.0 28.355585,-15.438976,0.0 28.355154,-15.440393,0.0 28.355131,-15.440442,0.0 28.35514,-15.440744,0.0 28.355174,-15.441962,0.0 28.355188,-15.442471,0.0 28.355045,-15.442667,0.0 28.354756,-15.443065,0.0 28.35497,-15.443296,0.0 28.355107,-15.443443,0.0 28.355129,-15.443448,0.0 28.360388,-15.444553,0.0 28.360379,-15.444592,0.0 28.359371,-15.44904,0.0 28.358199,-15.449681,0.0 28.358552,-15.450482,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Woodlands</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 16<br>
+<b>OBJECTID:</b> 52<br>
+<b>NAME:</b> Woodlands<br>
+<b>PCODE:</b> ZMB_TW0037<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>16</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>52</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0037</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.328132,-15.442759,0.0 28.331262,-15.433156,0.0 28.331265,-15.433144,0.0 28.33557,-15.434811,0.0 28.338835,-15.427521,0.0 28.342423,-15.429782,0.0 28.35333,-15.435588,0.0 28.353906,-15.435894,0.0 28.353045,-15.437512,0.0 28.352462,-15.438767,0.0 28.350337,-15.440513,0.0 28.349863,-15.441362,0.0 28.349387,-15.44183,0.0 28.34472,-15.443984,0.0 28.343341,-15.441246,0.0 28.328132,-15.442759,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>S. House</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 11<br>
+<b>OBJECTID:</b> 53<br>
+<b>NAME:</b> S. House<br>
+<b>PCODE:</b> ZMB_TW0038<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>11</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>53</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0038</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.330499,-15.42411,0.0 28.334258,-15.423349,0.0 28.337567,-15.42681,0.0 28.338835,-15.427521,0.0 28.33557,-15.434811,0.0 28.32553,-15.430923,0.0 28.322051,-15.422346,0.0 28.322051,-15.422275,0.0 28.327138,-15.424175,0.0 28.328096,-15.424597,0.0 28.330499,-15.42411,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>U.T.H</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 6<br>
+<b>OBJECTID:</b> 55<br>
+<b>NAME:</b> U.T.H<br>
+<b>PCODE:</b> ZMB_TW0040<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>6</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>55</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0040</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.312056,-15.434836,0.0 28.312022,-15.429541,0.0 28.315881,-15.429518,0.0 28.315946,-15.432899,0.0 28.315129,-15.434722,0.0 28.312056,-15.434836,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Ridgeway</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 20<br>
+<b>OBJECTID:</b> 56<br>
+<b>NAME:</b> Ridgeway<br>
+<b>PCODE:</b> ZMB_TW0041<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>20</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>56</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0041</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.318164,-15.439564,0.0 28.31207,-15.437138,0.0 28.312056,-15.434836,0.0 28.315129,-15.434722,0.0 28.315946,-15.432899,0.0 28.315881,-15.429518,0.0 28.312022,-15.429541,0.0 28.312008,-15.427293,0.0 28.311997,-15.425519,0.0 28.312653,-15.418087,0.0 28.314627,-15.417518,0.0 28.315781,-15.417117,0.0 28.3182,-15.416319,0.0 28.318949,-15.418666,0.0 28.317934,-15.420738,0.0 28.322051,-15.422275,0.0 28.322051,-15.422346,0.0 28.32553,-15.430923,0.0 28.322297,-15.429444,0.0 28.318164,-15.439564,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>University of Zambia</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 24<br>
+<b>OBJECTID:</b> 57<br>
+<b>NAME:</b> University of Zambia<br>
+<b>PCODE:</b> ZMB_TW0042<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>24</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>57</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0042</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.343884,-15.386725,0.0 28.344243,-15.388149,0.0 28.343666,-15.390833,0.0 28.342175,-15.390492,0.0 28.341365,-15.393983,0.0 28.339478,-15.402119,0.0 28.338981,-15.402507,0.0 28.330705,-15.400885,0.0 28.330716,-15.400833,0.0 28.320915,-15.398132,0.0 28.321852,-15.395411,0.0 28.321873,-15.394087,0.0 28.320345,-15.39217,0.0 28.318307,-15.389806,0.0 28.320066,-15.389145,0.0 28.325602,-15.388273,0.0 28.330545,-15.387493,0.0 28.332307,-15.387443,0.0 28.338497,-15.387883,0.0 28.340257,-15.387514,0.0 28.34252,-15.386911,0.0 28.342627,-15.386971,0.0 28.342902,-15.386917,0.0 28.343884,-15.386725,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Desai</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 32<br>
+<b>OBJECTID:</b> 58<br>
+<b>NAME:</b> Desai<br>
+<b>PCODE:</b> ZMB_TW0044<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>32</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>58</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0044</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.250937,-15.368154,0.0 28.250832,-15.368699,0.0 28.250572,-15.370055,0.0 28.250497,-15.370177,0.0 28.250222,-15.370203,0.0 28.24973,-15.371934,0.0 28.249363,-15.373469,0.0 28.249864,-15.373369,0.0 28.249991,-15.373563,0.0 28.250193,-15.373756,0.0 28.24978,-15.37577,0.0 28.249559,-15.376851,0.0 28.249635,-15.37707,0.0 28.249637,-15.377071,0.0 28.249762,-15.377215,0.0 28.249302,-15.379968,0.0 28.248988,-15.379903,0.0 28.245057,-15.379091,0.0 28.245659,-15.376165,0.0 28.24613,-15.373876,0.0 28.246582,-15.373958,0.0 28.246783,-15.373995,0.0 28.247197,-15.372045,0.0 28.247467,-15.371046,0.0 28.248142,-15.370677,0.0 28.24773,-15.370022,0.0 28.247256,-15.36927,0.0 28.248487,-15.369555,0.0 28.248881,-15.368288,0.0 28.249182,-15.368408,0.0 28.24943,-15.367822,0.0 28.250937,-15.368154,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Chunga</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 47<br>
+<b>OBJECTID:</b> 59<br>
+<b>NAME:</b> Chunga<br>
+<b>PCODE:</b> ZMB_TW0046<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>47</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>59</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0046</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.24487,-15.368821,0.0 28.242864,-15.368335,0.0 28.242979,-15.367726,0.0 28.243211,-15.366536,0.0 28.24389,-15.365054,0.0 28.24344,-15.364825,0.0 28.245305,-15.361944,0.0 28.246294,-15.362431,0.0 28.246861,-15.36237,0.0 28.247748,-15.360713,0.0 28.247418,-15.360454,0.0 28.247743,-15.359843,0.0 28.247353,-15.359585,0.0 28.247884,-15.358538,0.0 28.247704,-15.358394,0.0 28.248798,-15.356446,0.0 28.249367,-15.356674,0.0 28.249635,-15.356441,0.0 28.251515,-15.356112,0.0 28.252022,-15.35608,0.0 28.251835,-15.35466,0.0 28.252133,-15.354659,0.0 28.252533,-15.35657,0.0 28.253996,-15.356416,0.0 28.254267,-15.356705,0.0 28.256142,-15.355593,0.0 28.257562,-15.358165,0.0 28.256817,-15.358575,0.0 28.256999,-15.358922,0.0 28.256941,-15.359212,0.0 28.257092,-15.359588,0.0 28.256824,-15.359734,0.0 28.256976,-15.360081,0.0 28.25641,-15.360432,0.0 28.256264,-15.360955,0.0 28.255403,-15.361859,0.0 28.253996,-15.363198,0.0 28.253413,-15.363754,0.0 28.252436,-15.365267,0.0 28.251401,-15.367099,0.0 28.250937,-15.368154,0.0 28.24943,-15.367822,0.0 28.249182,-15.368408,0.0 28.248881,-15.368288,0.0 28.248487,-15.369555,0.0 28.247256,-15.36927,0.0 28.24487,-15.368821,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Matero</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 71<br>
+<b>OBJECTID:</b> 60<br>
+<b>NAME:</b> Matero<br>
+<b>PCODE:</b> ZMB_TW0047<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>71</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>60</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0047</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.261796,-15.373073,0.0 28.263863,-15.373545,0.0 28.265789,-15.374362,0.0 28.266166,-15.374452,0.0 28.266644,-15.374565,0.0 28.267786,-15.375248,0.0 28.268711,-15.375174,0.0 28.270418,-15.375026,0.0 28.27104,-15.374849,0.0 28.275105,-15.373688,0.0 28.27631,-15.372505,0.0 28.27647,-15.373421,0.0 28.276831,-15.374291,0.0 28.277129,-15.37501,0.0 28.277187,-15.375149,0.0 28.278051,-15.37648,0.0 28.277272,-15.37681,0.0 28.276979,-15.377642,0.0 28.276612,-15.378438,0.0 28.275614,-15.379527,0.0 28.273834,-15.380548,0.0 28.27298,-15.380879,0.0 28.271169,-15.38158,0.0 28.270749,-15.38188,0.0 28.26961,-15.382694,0.0 28.268623,-15.384149,0.0 28.26799,-15.385395,0.0 28.267151,-15.3914,0.0 28.267101,-15.391407,0.0 28.265177,-15.390934,0.0 28.265451,-15.389069,0.0 28.252842,-15.386862,0.0 28.251632,-15.386662,0.0 28.250852,-15.387218,0.0 28.250788,-15.388323,0.0 28.246653,-15.387714,0.0 28.247457,-15.384207,0.0 28.247797,-15.384016,0.0 28.24799,-15.383827,0.0 28.248272,-15.382222,0.0 28.248515,-15.382267,0.0 28.248988,-15.379903,0.0 28.249302,-15.379968,0.0 28.249762,-15.377215,0.0 28.249637,-15.377071,0.0 28.249635,-15.37707,0.0 28.249559,-15.376851,0.0 28.24978,-15.37577,0.0 28.250193,-15.373756,0.0 28.249991,-15.373563,0.0 28.249864,-15.373369,0.0 28.249363,-15.373469,0.0 28.24973,-15.371934,0.0 28.250222,-15.370203,0.0 28.250497,-15.370177,0.0 28.250572,-15.370055,0.0 28.250832,-15.368699,0.0 28.250937,-15.368154,0.0 28.251401,-15.367099,0.0 28.252436,-15.365267,0.0 28.253413,-15.363754,0.0 28.253996,-15.363198,0.0 28.254838,-15.363586,0.0 28.256054,-15.364614,0.0 28.256918,-15.366335,0.0 28.256921,-15.366888,0.0 28.256927,-15.367854,0.0 28.259776,-15.368459,0.0 28.259855,-15.369632,0.0 28.262277,-15.370171,0.0 28.261796,-15.373073,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Emmasdale/Villa Ellizabetha</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 65<br>
+<b>OBJECTID:</b> 61<br>
+<b>NAME:</b> Emmasdale/Villa Ellizabetha<br>
+<b>PCODE:</b> ZMB_TW0048<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>65</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>61</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0048</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.281859,-15.390975,0.0 28.282092,-15.392801,0.0 28.282256,-15.39308,0.0 28.283349,-15.394938,0.0 28.283758,-15.395721,0.0 28.283838,-15.395874,0.0 28.284121,-15.397012,0.0 28.284127,-15.397883,0.0 28.283508,-15.39849,0.0 28.2819,-15.399882,0.0 28.28142,-15.400633,0.0 28.281225,-15.401189,0.0 28.281142,-15.401916,0.0 28.28119,-15.402535,0.0 28.282106,-15.408363,0.0 28.28014,-15.408635,0.0 28.278754,-15.410166,0.0 28.277453,-15.411273,0.0 28.276367,-15.411998,0.0 28.275875,-15.41156,0.0 28.275456,-15.411158,0.0 28.274667,-15.410624,0.0 28.27309,-15.409915,0.0 28.273822,-15.408655,0.0 28.272816,-15.403006,0.0 28.278686,-15.402255,0.0 28.27877,-15.400818,0.0 28.279175,-15.398976,0.0 28.279627,-15.395104,0.0 28.266899,-15.393203,0.0 28.267151,-15.3914,0.0 28.26799,-15.385395,0.0 28.268623,-15.384149,0.0 28.26961,-15.382694,0.0 28.270749,-15.38188,0.0 28.271169,-15.38158,0.0 28.27298,-15.380879,0.0 28.273834,-15.380548,0.0 28.275614,-15.379527,0.0 28.276612,-15.378438,0.0 28.276979,-15.377642,0.0 28.277272,-15.37681,0.0 28.278051,-15.37648,0.0 28.278675,-15.377795,0.0 28.278743,-15.378571,0.0 28.281174,-15.378153,0.0 28.281115,-15.378992,0.0 28.282334,-15.379327,0.0 28.281794,-15.380044,0.0 28.283046,-15.38069,0.0 28.283943,-15.380684,0.0 28.28436,-15.38093,0.0 28.284141,-15.381615,0.0 28.283726,-15.381835,0.0 28.283663,-15.382053,0.0 28.282828,-15.381592,0.0 28.281465,-15.383867,0.0 28.283646,-15.384445,0.0 28.283266,-15.38513,0.0 28.28103,-15.386044,0.0 28.281037,-15.387131,0.0 28.281011,-15.388187,0.0 28.280147,-15.388223,0.0 28.280194,-15.390677,0.0 28.281859,-15.390975,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Industrial Area</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 55<br>
+<b>OBJECTID:</b> 62<br>
+<b>NAME:</b> Industrial Area<br>
+<b>PCODE:</b> ZMB_TW0049<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>55</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>62</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0049</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.267151,-15.3914,0.0 28.266899,-15.393203,0.0 28.279627,-15.395104,0.0 28.279175,-15.398976,0.0 28.27877,-15.400818,0.0 28.278686,-15.402255,0.0 28.272816,-15.403006,0.0 28.273822,-15.408655,0.0 28.27309,-15.409915,0.0 28.274667,-15.410624,0.0 28.275456,-15.411158,0.0 28.275875,-15.41156,0.0 28.276367,-15.411998,0.0 28.276897,-15.41301,0.0 28.277166,-15.414235,0.0 28.277305,-15.41563,0.0 28.273254,-15.416288,0.0 28.273965,-15.421303,0.0 28.267683,-15.422126,0.0 28.266921,-15.416742,0.0 28.266909,-15.416623,0.0 28.266907,-15.416626,0.0 28.266815,-15.41665,0.0 28.256897,-15.419189,0.0 28.253113,-15.4198,0.0 28.252319,-15.419983,0.0 28.248108,-15.420898,0.0 28.246887,-15.421082,0.0 28.245483,-15.421082,0.0 28.241882,-15.421387,0.0 28.239319,-15.421509,0.0 28.237305,-15.421387,0.0 28.235474,-15.421326,0.0 28.233589,-15.421007,0.0 28.236156,-15.417964,0.0 28.238152,-15.415105,0.0 28.239579,-15.406805,0.0 28.240624,-15.397766,0.0 28.245348,-15.39814,0.0 28.245771,-15.393729,0.0 28.246605,-15.392472,0.0 28.246323,-15.392256,0.0 28.246153,-15.391876,0.0 28.246148,-15.391059,0.0 28.245976,-15.39057,0.0 28.24632,-15.389165,0.0 28.246653,-15.387714,0.0 28.250788,-15.388323,0.0 28.250852,-15.387218,0.0 28.251632,-15.386662,0.0 28.252842,-15.386862,0.0 28.265451,-15.389069,0.0 28.265177,-15.390934,0.0 28.267101,-15.391407,0.0 28.267151,-15.3914,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Frank</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 29<br>
+<b>OBJECTID:</b> 63<br>
+<b>NAME:</b> Frank<br>
+<b>PCODE:</b> ZMB_TW0053<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>29</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>63</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0053</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.287711,-15.446181,0.0 28.28732,-15.446731,0.0 28.287121,-15.446595,0.0 28.286669,-15.446352,0.0 28.286104,-15.446328,0.0 28.285651,-15.446388,0.0 28.285456,-15.446413,0.0 28.284807,-15.44639,0.0 28.28458,-15.4462,0.0 28.284568,-15.446166,0.0 28.284465,-15.445872,0.0 28.284476,-15.445535,0.0 28.284489,-15.445133,0.0 28.284653,-15.443811,0.0 28.284731,-15.443189,0.0 28.284787,-15.442951,0.0 28.284841,-15.442723,0.0 28.284811,-15.442477,0.0 28.284612,-15.442232,0.0 28.284217,-15.442206,0.0 28.284151,-15.441736,0.0 28.284099,-15.441359,0.0 28.284211,-15.441221,0.0 28.284199,-15.435155,0.0 28.286124,-15.4364,0.0 28.286241,-15.436476,0.0 28.286798,-15.440151,0.0 28.287889,-15.446153,0.0 28.287711,-15.446181,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Jack</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 13<br>
+<b>OBJECTID:</b> 64<br>
+<b>NAME:</b> Jack<br>
+<b>PCODE:</b> ZMB_TW0055<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>13</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>64</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0055</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.293774,-15.479886,0.0 28.292283,-15.472394,0.0 28.292252,-15.472237,0.0 28.292006,-15.470706,0.0 28.29112,-15.465186,0.0 28.291328,-15.465058,0.0 28.292249,-15.465003,0.0 28.296102,-15.464771,0.0 28.304523,-15.463253,0.0 28.305502,-15.467205,0.0 28.301553,-15.467815,0.0 28.30395,-15.478248,0.0 28.293774,-15.479886,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kuomboka</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 19<br>
+<b>OBJECTID:</b> 65<br>
+<b>NAME:</b> Kuomboka<br>
+<b>PCODE:</b> ZMB_TW0056<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>19</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>65</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0056</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.278319,-15.465413,0.0 28.278361,-15.465836,0.0 28.278376,-15.466046,0.0 28.275708,-15.466543,0.0 28.275624,-15.465775,0.0 28.27182,-15.466297,0.0 28.271444,-15.463183,0.0 28.270081,-15.454229,0.0 28.27032,-15.454191,0.0 28.272854,-15.45379,0.0 28.273916,-15.453554,0.0 28.27581,-15.453131,0.0 28.275945,-15.453101,0.0 28.27622,-15.45304,0.0 28.276235,-15.453133,0.0 28.276754,-15.456421,0.0 28.277664,-15.462186,0.0 28.278119,-15.465145,0.0 28.278319,-15.465413,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Show Grounds</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 17<br>
+<b>OBJECTID:</b> 66<br>
+<b>NAME:</b> Show Grounds<br>
+<b>PCODE:</b> ZMB_TW0057<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>17</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>66</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0057</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.315348,-15.392356,0.0 28.318607,-15.39609,0.0 28.313669,-15.399326,0.0 28.313593,-15.399823,0.0 28.31328,-15.399978,0.0 28.31269,-15.400096,0.0 28.312415,-15.400135,0.0 28.311743,-15.399605,0.0 28.309031,-15.400232,0.0 28.308558,-15.400006,0.0 28.307184,-15.400624,0.0 28.307105,-15.401124,0.0 28.306197,-15.400223,0.0 28.309247,-15.397549,0.0 28.31053,-15.396406,0.0 28.314411,-15.393151,0.0 28.315348,-15.392356,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Chazanga</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 57<br>
+<b>OBJECTID:</b> 67<br>
+<b>NAME:</b> Chazanga<br>
+<b>PCODE:</b> ZMB_TW0058<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>57</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>67</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0058</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.298279,-15.347412,0.0 28.298523,-15.350708,0.0 28.299927,-15.350708,0.0 28.301331,-15.350891,0.0 28.302917,-15.351501,0.0 28.302896,-15.351685,0.0 28.302299,-15.351631,0.0 28.301258,-15.35129,0.0 28.301098,-15.351795,0.0 28.300971,-15.352174,0.0 28.300283,-15.3564,0.0 28.299996,-15.357221,0.0 28.299455,-15.359146,0.0 28.298153,-15.358492,0.0 28.297306,-15.358119,0.0 28.294698,-15.35637,0.0 28.294696,-15.356149,0.0 28.295114,-15.355453,0.0 28.293707,-15.354689,0.0 28.29365,-15.354697,0.0 28.293277,-15.355543,0.0 28.290259,-15.353874,0.0 28.287341,-15.357566,0.0 28.287945,-15.35793,0.0 28.286996,-15.359535,0.0 28.285991,-15.359044,0.0 28.285726,-15.359369,0.0 28.28531,-15.359716,0.0 28.29234,-15.369017,0.0 28.2911,-15.370663,0.0 28.28444,-15.36861,0.0 28.278554,-15.366805,0.0 28.277887,-15.3666,0.0 28.276351,-15.366129,0.0 28.276917,-15.355103,0.0 28.2771,-15.348694,0.0 28.276494,-15.340462,0.0 28.276489,-15.340393,0.0 28.276598,-15.340393,0.0 28.280884,-15.340393,0.0 28.285278,-15.338501,0.0 28.289917,-15.336426,0.0 28.292908,-15.335205,0.0 28.29248,-15.335693,0.0 28.29248,-15.336487,0.0 28.292297,-15.337402,0.0 28.292297,-15.338318,0.0 28.292908,-15.339294,0.0 28.293091,-15.340515,0.0 28.293091,-15.341797,0.0 28.292725,-15.342712,0.0 28.29248,-15.343628,0.0 28.294678,-15.343811,0.0 28.296082,-15.344116,0.0 28.297913,-15.344177,0.0 28.297994,-15.344898,0.0 28.298279,-15.347412,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Chainama</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 42<br>
+<b>OBJECTID:</b> 68<br>
+<b>NAME:</b> Chainama<br>
+<b>PCODE:</b> ZMB_TW0059<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>42</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>68</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0059</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.3676,-15.392782,0.0 28.367185,-15.393153,0.0 28.366919,-15.393722,0.0 28.367013,-15.394288,0.0 28.366997,-15.394483,0.0 28.366941,-15.394494,0.0 28.352323,-15.397385,0.0 28.350833,-15.396875,0.0 28.350886,-15.396702,0.0 28.345993,-15.400356,0.0 28.345958,-15.400583,0.0 28.34442,-15.400973,0.0 28.344279,-15.401111,0.0 28.344245,-15.401318,0.0 28.344033,-15.401422,0.0 28.343608,-15.401494,0.0 28.343218,-15.401599,0.0 28.343078,-15.401772,0.0 28.342866,-15.401911,0.0 28.34237,-15.401983,0.0 28.342051,-15.402088,0.0 28.341804,-15.402227,0.0 28.34145,-15.402367,0.0 28.340883,-15.402336,0.0 28.340457,-15.402339,0.0 28.34028,-15.402408,0.0 28.339997,-15.402513,0.0 28.339678,-15.402481,0.0 28.339394,-15.402483,0.0 28.341365,-15.393983,0.0 28.342175,-15.390492,0.0 28.343666,-15.390833,0.0 28.344243,-15.388149,0.0 28.343884,-15.386725,0.0 28.353989,-15.383893,0.0 28.354441,-15.383761,0.0 28.356512,-15.383159,0.0 28.362364,-15.381551,0.0 28.363631,-15.380968,0.0 28.364171,-15.38072,0.0 28.367677,-15.392713,0.0 28.3676,-15.392782,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Chamba Valley</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 26<br>
+<b>OBJECTID:</b> 70<br>
+<b>NAME:</b> Chamba Valley<br>
+<b>PCODE:</b> ZMB_TW0062<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>26</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>70</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0062</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.368393,-15.371277,0.0 28.36604,-15.37553,0.0 28.348152,-15.367993,0.0 28.347054,-15.373157,0.0 28.34553,-15.372853,0.0 28.338146,-15.371347,0.0 28.338027,-15.370006,0.0 28.337969,-15.36936,0.0 28.338254,-15.366192,0.0 28.337614,-15.364829,0.0 28.339932,-15.362836,0.0 28.337537,-15.360306,0.0 28.341303,-15.356938,0.0 28.345589,-15.358938,0.0 28.346738,-15.356387,0.0 28.34781,-15.356946,0.0 28.35006,-15.35189,0.0 28.350288,-15.35197,0.0 28.353692,-15.353163,0.0 28.378814,-15.362408,0.0 28.376585,-15.366347,0.0 28.369429,-15.363294,0.0 28.366954,-15.368562,0.0 28.368919,-15.369417,0.0 28.368105,-15.371189,0.0 28.368393,-15.371277,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Munali</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 20<br>
+<b>OBJECTID:</b> 71<br>
+<b>NAME:</b> Munali<br>
+<b>PCODE:</b> ZMB_TW0063<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>20</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>71</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0063</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.347054,-15.373157,0.0 28.34685,-15.374112,0.0 28.356153,-15.375901,0.0 28.355701,-15.378233,0.0 28.356919,-15.378498,0.0 28.356647,-15.379922,0.0 28.35543,-15.379808,0.0 28.355009,-15.38217,0.0 28.356285,-15.381769,0.0 28.356512,-15.383159,0.0 28.354441,-15.383761,0.0 28.353989,-15.383893,0.0 28.343884,-15.386725,0.0 28.342902,-15.386917,0.0 28.342627,-15.386971,0.0 28.34252,-15.386911,0.0 28.342548,-15.386904,0.0 28.343822,-15.381132,0.0 28.34553,-15.372853,0.0 28.347054,-15.373157,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Longacres</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 10<br>
+<b>OBJECTID:</b> 72<br>
+<b>NAME:</b> Longacres<br>
+<b>PCODE:</b> ZMB_TW0064<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>10</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>72</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0064</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.312008,-15.427293,0.0 28.312022,-15.429541,0.0 28.312056,-15.434836,0.0 28.31207,-15.437138,0.0 28.312038,-15.437125,0.0 28.310759,-15.436547,0.0 28.302574,-15.430021,0.0 28.30684,-15.424872,0.0 28.310065,-15.427269,0.0 28.312008,-15.427293,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Paradise</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 40<br>
+<b>OBJECTID:</b> 73<br>
+<b>NAME:</b> Paradise<br>
+<b>PCODE:</b> ZMB_TW0065<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>40</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>73</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0065</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.24181,-15.365319,0.0 28.242369,-15.365584,0.0 28.24163,-15.366864,0.0 28.241662,-15.36727,0.0 28.241932,-15.3675,0.0 28.242113,-15.36776,0.0 28.242056,-15.368195,0.0 28.242864,-15.368335,0.0 28.24487,-15.368821,0.0 28.244259,-15.371502,0.0 28.244176,-15.372218,0.0 28.244165,-15.372312,0.0 28.244045,-15.373353,0.0 28.243857,-15.374226,0.0 28.243535,-15.374197,0.0 28.243228,-15.374232,0.0 28.242991,-15.374366,0.0 28.242822,-15.374664,0.0 28.241934,-15.374471,0.0 28.242034,-15.374106,0.0 28.24077,-15.373848,0.0 28.2409,-15.372722,0.0 28.239563,-15.371605,0.0 28.239177,-15.37129,0.0 28.238878,-15.371046,0.0 28.237679,-15.370225,0.0 28.237438,-15.369929,0.0 28.237368,-15.369532,0.0 28.237399,-15.368969,0.0 28.237395,-15.368439,0.0 28.237291,-15.36801,0.0 28.23705,-15.36768,0.0 28.236843,-15.367317,0.0 28.237329,-15.366292,0.0 28.237536,-15.365856,0.0 28.237561,-15.365872,0.0 28.238504,-15.36375,0.0 28.238651,-15.36382,0.0 28.240298,-15.364601,0.0 28.24181,-15.365319,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Georges-Soweto</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 45<br>
+<b>OBJECTID:</b> 74<br>
+<b>NAME:</b> Georges-Soweto<br>
+<b>PCODE:</b> ZMB_TW0067<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>45</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>74</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0067</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.237395,-15.368439,0.0 28.237399,-15.368969,0.0 28.237368,-15.369532,0.0 28.237438,-15.369929,0.0 28.237679,-15.370225,0.0 28.238878,-15.371046,0.0 28.239177,-15.37129,0.0 28.239563,-15.371605,0.0 28.2409,-15.372722,0.0 28.24077,-15.373848,0.0 28.242034,-15.374106,0.0 28.241934,-15.374471,0.0 28.242822,-15.374664,0.0 28.242991,-15.374366,0.0 28.243228,-15.374232,0.0 28.243535,-15.374197,0.0 28.243857,-15.374226,0.0 28.243543,-15.375683,0.0 28.242964,-15.378379,0.0 28.242905,-15.378391,0.0 28.240915,-15.378406,0.0 28.236987,-15.375982,0.0 28.232558,-15.385528,0.0 28.231422,-15.385004,0.0 28.232769,-15.382638,0.0 28.231842,-15.382077,0.0 28.229258,-15.380724,0.0 28.229784,-15.379306,0.0 28.228809,-15.378746,0.0 28.229817,-15.376571,0.0 28.228258,-15.376061,0.0 28.230081,-15.371496,0.0 28.230749,-15.369822,0.0 28.232211,-15.370656,0.0 28.233155,-15.368592,0.0 28.232826,-15.368594,0.0 28.23506,-15.36483,0.0 28.235311,-15.364406,0.0 28.23705,-15.365539,0.0 28.237536,-15.365856,0.0 28.237329,-15.366292,0.0 28.236843,-15.367317,0.0 28.23705,-15.36768,0.0 28.237291,-15.36801,0.0 28.237395,-15.368439,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Freedom/Chilanga</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 62<br>
+<b>OBJECTID:</b> 75<br>
+<b>NAME:</b> Freedom/Chilanga<br>
+<b>PCODE:</b> ZMB_TW0068<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>62</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>75</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0068</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.279343,-15.559403,0.0 28.278276,-15.559733,0.0 28.277408,-15.559868,0.0 28.276471,-15.559614,0.0 28.276209,-15.560458,0.0 28.276816,-15.561491,0.0 28.27742,-15.561812,0.0 28.278024,-15.562197,0.0 28.278227,-15.562714,0.0 28.278033,-15.563752,0.0 28.27757,-15.564467,0.0 28.277173,-15.565117,0.0 28.276642,-15.565768,0.0 28.275845,-15.566485,0.0 28.27511,-15.566619,0.0 28.27444,-15.566364,0.0 28.27417,-15.565912,0.0 28.274032,-15.565135,0.0 28.274024,-15.563904,0.0 28.274087,-15.563256,0.0 28.273682,-15.562546,0.0 28.273544,-15.561899,0.0 28.273468,-15.560409,0.0 28.273328,-15.559309,0.0 28.272719,-15.558081,0.0 28.271302,-15.555887,0.0 28.269817,-15.553563,0.0 28.269208,-15.552271,0.0 28.268867,-15.551236,0.0 28.267718,-15.549105,0.0 28.267245,-15.548265,0.0 28.266438,-15.547363,0.0 28.267103,-15.546841,0.0 28.267122,-15.546792,0.0 28.26523,-15.544111,0.0 28.263956,-15.541621,0.0 28.2635,-15.538735,0.0 28.263111,-15.53574,0.0 28.260796,-15.528802,0.0 28.260751,-15.527177,0.0 28.261203,-15.52418,0.0 28.262615,-15.515495,0.0 28.278076,-15.517883,0.0 28.283081,-15.519592,0.0 28.296604,-15.520684,0.0 28.295663,-15.53329,0.0 28.294268,-15.537388,0.0 28.290672,-15.541796,0.0 28.28756,-15.546642,0.0 28.287242,-15.550741,0.0 28.286715,-15.55191,0.0 28.286056,-15.553469,0.0 28.285727,-15.554248,0.0 28.285195,-15.554705,0.0 28.284465,-15.555551,0.0 28.283736,-15.556462,0.0 28.283272,-15.557113,0.0 28.282608,-15.557829,0.0 28.282077,-15.558416,0.0 28.281613,-15.558937,0.0 28.280344,-15.559138,0.0 28.279343,-15.559403,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Lilayi</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 8<br>
+<b>OBJECTID:</b> 76<br>
+<b>NAME:</b> Lilayi<br>
+<b>PCODE:</b> ZMB_TW0069<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>8</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>76</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0069</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.300156,-15.515006,0.0 28.30065,-15.509841,0.0 28.307488,-15.510375,0.0 28.306024,-15.528417,0.0 28.297079,-15.527386,0.0 28.297806,-15.517569,0.0 28.298589,-15.516608,0.0 28.300156,-15.515006,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Linda</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 31<br>
+<b>OBJECTID:</b> 77<br>
+<b>NAME:</b> Linda<br>
+<b>PCODE:</b> ZMB_TW0072<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>31</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>77</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0072</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.234212,-15.540137,0.0 28.231137,-15.533512,0.0 28.23113,-15.532418,0.0 28.231733,-15.531658,0.0 28.234334,-15.53156,0.0 28.235457,-15.530881,0.0 28.236581,-15.530286,0.0 28.238054,-15.530025,0.0 28.238838,-15.530694,0.0 28.238929,-15.531366,0.0 28.238933,-15.532039,0.0 28.238938,-15.532795,0.0 28.238943,-15.533636,0.0 28.239469,-15.534558,0.0 28.239734,-15.535397,0.0 28.23991,-15.535817,0.0 28.240434,-15.536486,0.0 28.240179,-15.537245,0.0 28.23966,-15.5375,0.0 28.238789,-15.536916,0.0 28.238003,-15.53608,0.0 28.237304,-15.535075,0.0 28.236174,-15.534745,0.0 28.235482,-15.535085,0.0 28.235055,-15.536096,0.0 28.235061,-15.537189,0.0 28.235243,-15.538533,0.0 28.235249,-15.539626,0.0 28.235166,-15.540215,0.0 28.234821,-15.54047,0.0 28.234212,-15.540137,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Mazyopa</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 31<br>
+<b>OBJECTID:</b> 78<br>
+<b>NAME:</b> Mazyopa<br>
+<b>PCODE:</b> ZMB_TW0073<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>31</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>78</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0073</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.321189,-15.363537,0.0 28.321411,-15.363587,0.0 28.321273,-15.363963,0.0 28.32131,-15.364038,0.0 28.320009,-15.36834,0.0 28.318084,-15.372298,0.0 28.317874,-15.372143,0.0 28.317316,-15.37173,0.0 28.309464,-15.365916,0.0 28.310711,-15.360503,0.0 28.312046,-15.360062,0.0 28.312031,-15.360035,0.0 28.31215,-15.360063,0.0 28.312713,-15.36023,0.0 28.313312,-15.360397,0.0 28.313699,-15.360599,0.0 28.313877,-15.360905,0.0 28.313844,-15.361212,0.0 28.313671,-15.36169,0.0 28.313709,-15.362133,0.0 28.313956,-15.36237,0.0 28.314345,-15.362777,0.0 28.317799,-15.364529,0.0 28.318144,-15.363505,0.0 28.318282,-15.363163,0.0 28.318703,-15.363024,0.0 28.319232,-15.363294,0.0 28.319653,-15.363291,0.0 28.320266,-15.363344,0.0 28.320391,-15.363355,0.0 28.321189,-15.363537,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Civic Centre</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 24<br>
+<b>OBJECTID:</b> 79<br>
+<b>NAME:</b> Civic Centre<br>
+<b>PCODE:</b> ZMB_TW0077<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>24</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>79</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0077</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.294309,-15.422553,0.0 28.293149,-15.418372,0.0 28.292222,-15.416474,0.0 28.292215,-15.415332,0.0 28.292723,-15.413986,0.0 28.292719,-15.413334,0.0 28.293927,-15.413262,0.0 28.297816,-15.412913,0.0 28.300486,-15.41135,0.0 28.303883,-15.413744,0.0 28.313599,-15.416348,0.0 28.314304,-15.416839,0.0 28.314627,-15.417518,0.0 28.312653,-15.418087,0.0 28.311997,-15.425519,0.0 28.312008,-15.427293,0.0 28.310065,-15.427269,0.0 28.30684,-15.424872,0.0 28.302574,-15.430021,0.0 28.301108,-15.428852,0.0 28.298949,-15.427107,0.0 28.298846,-15.427042,0.0 28.294971,-15.42459,0.0 28.294309,-15.422553,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Ngwerere</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 36<br>
+<b>OBJECTID:</b> 80<br>
+<b>NAME:</b> Ngwerere<br>
+<b>PCODE:</b> ZMB_TW0079<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>36</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>80</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0079</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.327881,-15.327698,0.0 28.326477,-15.328125,0.0 28.325317,-15.329102,0.0 28.304077,-15.339783,0.0 28.299927,-15.344299,0.0 28.299316,-15.344299,0.0 28.297913,-15.344177,0.0 28.296082,-15.344116,0.0 28.294678,-15.343811,0.0 28.29248,-15.343628,0.0 28.292725,-15.342712,0.0 28.293091,-15.341797,0.0 28.293091,-15.340515,0.0 28.292908,-15.339294,0.0 28.292297,-15.338318,0.0 28.292297,-15.337402,0.0 28.29248,-15.336487,0.0 28.29248,-15.335693,0.0 28.292908,-15.335205,0.0 28.289917,-15.336426,0.0 28.285278,-15.338501,0.0 28.280884,-15.340393,0.0 28.276598,-15.340393,0.0 28.276489,-15.340393,0.0 28.276487,-15.340357,0.0 28.274902,-15.319214,0.0 28.292114,-15.313599,0.0 28.302005,-15.307652,0.0 28.305115,-15.30542,0.0 28.311559,-15.304053,0.0 28.323486,-15.305481,0.0 28.325928,-15.304504,0.0 28.325684,-15.312622,0.0 28.323486,-15.3172,0.0 28.324679,-15.322461,0.0 28.327881,-15.327698,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Chakunkula</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 20<br>
+<b>OBJECTID:</b> 81<br>
+<b>NAME:</b> Chakunkula<br>
+<b>PCODE:</b> ZMB_TW0010<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>20</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>81</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0010</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.395559,-15.362311,0.0 28.395475,-15.362403,0.0 28.39365,-15.36575,0.0 28.392607,-15.365675,0.0 28.390202,-15.365361,0.0 28.38852,-15.365129,0.0 28.387631,-15.36547,0.0 28.386922,-15.366238,0.0 28.383642,-15.369882,0.0 28.381731,-15.37187,0.0 28.380453,-15.372529,0.0 28.374695,-15.373948,0.0 28.372128,-15.374482,0.0 28.372465,-15.373626,0.0 28.374466,-15.370091,0.0 28.376585,-15.366347,0.0 28.378814,-15.362408,0.0 28.378895,-15.362264,0.0 28.381745,-15.357041,0.0 28.395559,-15.362311,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>New Kasama</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 13<br>
+<b>OBJECTID:</b> 82<br>
+<b>NAME:</b> New Kasama<br>
+<b>PCODE:</b> ZMB_TW0081<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>13</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>82</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0081</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.377398,-15.45302,0.0 28.373414,-15.448448,0.0 28.373537,-15.448428,0.0 28.38675,-15.446371,0.0 28.388215,-15.446043,0.0 28.388226,-15.445994,0.0 28.402367,-15.460901,0.0 28.411442,-15.466668,0.0 28.40667,-15.478583,0.0 28.397453,-15.4751,0.0 28.387932,-15.4651,0.0 28.378098,-15.453824,0.0 28.377398,-15.45302,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Cementery</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 56<br>
+<b>OBJECTID:</b> 83<br>
+<b>NAME:</b> Cementery<br>
+<b>PCODE:</b> ZMB_TW0082<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>56</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>83</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0082</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.356478,-15.437191,0.0 28.356428,-15.437297,0.0 28.356424,-15.437306,0.0 28.356424,-15.437306,0.0 28.356421,-15.437304,0.0 28.353906,-15.435894,0.0 28.354488,-15.434787,0.0 28.356081,-15.427591,0.0 28.35629,-15.42759,0.0 28.37339,-15.431062,0.0 28.373442,-15.43104,0.0 28.373528,-15.431056,0.0 28.375865,-15.433036,0.0 28.375213,-15.437507,0.0 28.375503,-15.437867,0.0 28.375007,-15.438858,0.0 28.37459,-15.438978,0.0 28.374213,-15.439593,0.0 28.373995,-15.439891,0.0 28.373598,-15.439712,0.0 28.373468,-15.439935,0.0 28.373428,-15.440004,0.0 28.373241,-15.440327,0.0 28.373856,-15.440843,0.0 28.374159,-15.441055,0.0 28.374784,-15.441491,0.0 28.3749,-15.441572,0.0 28.37493,-15.441569,0.0 28.374911,-15.441595,0.0 28.375559,-15.442182,0.0 28.375737,-15.442443,0.0 28.373678,-15.445312,0.0 28.37241,-15.447077,0.0 28.372024,-15.446619,0.0 28.371632,-15.446192,0.0 28.37119,-15.445721,0.0 28.37106,-15.445611,0.0 28.371038,-15.445592,0.0 28.370713,-15.445317,0.0 28.370095,-15.444865,0.0 28.369623,-15.444501,0.0 28.369608,-15.444509,0.0 28.368774,-15.443922,0.0 28.368725,-15.443887,0.0 28.36861,-15.443805,0.0 28.368284,-15.443571,0.0 28.367795,-15.443218,0.0 28.367534,-15.443034,0.0 28.367035,-15.442681,0.0 28.366151,-15.442179,0.0 28.36486,-15.441512,0.0 28.361101,-15.439572,0.0 28.36057,-15.439298,0.0 28.359592,-15.438792,0.0 28.358419,-15.438168,0.0 28.356478,-15.437191,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Chandamali</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 22<br>
+<b>OBJECTID:</b> 84<br>
+<b>NAME:</b> Chandamali<br>
+<b>PCODE:</b> ZMB_TW0083<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>22</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>84</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0083</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.336003,-15.457727,0.0 28.337753,-15.457816,0.0 28.340733,-15.457066,0.0 28.342037,-15.457091,0.0 28.342096,-15.455627,0.0 28.348305,-15.455656,0.0 28.348513,-15.455954,0.0 28.349718,-15.456645,0.0 28.350915,-15.456106,0.0 28.351887,-15.457448,0.0 28.351588,-15.462529,0.0 28.349807,-15.463453,0.0 28.342134,-15.462933,0.0 28.342146,-15.465491,0.0 28.329834,-15.466812,0.0 28.329685,-15.465628,0.0 28.328301,-15.456617,0.0 28.32837,-15.455011,0.0 28.333043,-15.456247,0.0 28.332841,-15.456814,0.0 28.335864,-15.457494,0.0 28.336003,-15.457727,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Workers</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 50<br>
+<b>OBJECTID:</b> 86<br>
+<b>NAME:</b> Workers<br>
+<b>PCODE:</b> ZMB_TW0085<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>50</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>86</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0085</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.296604,-15.520684,0.0 28.283081,-15.519592,0.0 28.278076,-15.517883,0.0 28.262615,-15.515495,0.0 28.262878,-15.513611,0.0 28.262414,-15.511568,0.0 28.261076,-15.508078,0.0 28.25846,-15.501404,0.0 28.255078,-15.490897,0.0 28.254272,-15.488165,0.0 28.254152,-15.487109,0.0 28.254237,-15.48627,0.0 28.253479,-15.486084,0.0 28.254517,-15.485413,0.0 28.256897,-15.481812,0.0 28.260498,-15.475403,0.0 28.261719,-15.471497,0.0 28.261902,-15.469299,0.0 28.262342,-15.466691,0.0 28.262395,-15.464001,0.0 28.263077,-15.462182,0.0 28.266574,-15.455707,0.0 28.267564,-15.453847,0.0 28.268775,-15.454034,0.0 28.270117,-15.454047,0.0 28.27032,-15.454191,0.0 28.270081,-15.454229,0.0 28.271444,-15.463183,0.0 28.27182,-15.466297,0.0 28.275624,-15.465775,0.0 28.275708,-15.466543,0.0 28.278376,-15.466046,0.0 28.278404,-15.466451,0.0 28.279413,-15.46626,0.0 28.27948,-15.466492,0.0 28.27948,-15.467285,0.0 28.279936,-15.469635,0.0 28.280701,-15.474609,0.0 28.284267,-15.47393,0.0 28.285061,-15.473838,0.0 28.286957,-15.473402,0.0 28.288166,-15.473246,0.0 28.29054,-15.472985,0.0 28.29109,-15.472815,0.0 28.292283,-15.472394,0.0 28.293774,-15.479886,0.0 28.297946,-15.507752,0.0 28.297771,-15.510393,0.0 28.296692,-15.520691,0.0 28.296604,-15.520684,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Handsworth Park</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 32<br>
+<b>OBJECTID:</b> 87<br>
+<b>NAME:</b> Handsworth Park<br>
+<b>PCODE:</b> ZMB_TW0086<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>32</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>87</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0086</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.330716,-15.400833,0.0 28.330667,-15.401086,0.0 28.330398,-15.402276,0.0 28.324987,-15.401199,0.0 28.319183,-15.404508,0.0 28.318901,-15.403747,0.0 28.309191,-15.403446,0.0 28.308258,-15.402151,0.0 28.307826,-15.402247,0.0 28.307804,-15.402175,0.0 28.307415,-15.401432,0.0 28.307105,-15.401124,0.0 28.307184,-15.400624,0.0 28.308558,-15.400006,0.0 28.309031,-15.400232,0.0 28.311743,-15.399605,0.0 28.312415,-15.400135,0.0 28.31269,-15.400096,0.0 28.31328,-15.399978,0.0 28.313593,-15.399823,0.0 28.313669,-15.399326,0.0 28.318607,-15.39609,0.0 28.315348,-15.392356,0.0 28.316173,-15.391655,0.0 28.31747,-15.390366,0.0 28.318022,-15.389913,0.0 28.318307,-15.389806,0.0 28.320345,-15.39217,0.0 28.321873,-15.394087,0.0 28.321852,-15.395411,0.0 28.320915,-15.398132,0.0 28.330716,-15.400833,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Airport</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 32<br>
+<b>OBJECTID:</b> 88<br>
+<b>NAME:</b> Airport<br>
+<b>PCODE:</b> ZMB_TW0087<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>32</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>88</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0087</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.329177,-15.407429,0.0 28.337806,-15.409235,0.0 28.337815,-15.409196,0.0 28.340187,-15.410047,0.0 28.344577,-15.408782,0.0 28.344805,-15.408691,0.0 28.345258,-15.410548,0.0 28.342365,-15.411136,0.0 28.337215,-15.412704,0.0 28.337084,-15.413407,0.0 28.337175,-15.413539,0.0 28.336859,-15.413541,0.0 28.336679,-15.413849,0.0 28.335139,-15.413551,0.0 28.330758,-15.415026,0.0 28.331958,-15.418619,0.0 28.330499,-15.424072,0.0 28.330499,-15.42411,0.0 28.328096,-15.424597,0.0 28.327138,-15.424175,0.0 28.322051,-15.422275,0.0 28.317934,-15.420738,0.0 28.318949,-15.418666,0.0 28.3182,-15.416319,0.0 28.315781,-15.417117,0.0 28.318954,-15.412067,0.0 28.319781,-15.410751,0.0 28.32139,-15.409673,0.0 28.325342,-15.407298,0.0 28.326955,-15.406932,0.0 28.329144,-15.407398,0.0 28.329177,-15.407429,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Chingwere</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 85<br>
+<b>OBJECTID:</b> 89<br>
+<b>NAME:</b> Chingwere<br>
+<b>PCODE:</b> ZMB_TW0088<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>85</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>89</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0088</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.276487,-15.340357,0.0 28.276489,-15.340393,0.0 28.276494,-15.340462,0.0 28.2771,-15.348694,0.0 28.276917,-15.355103,0.0 28.276351,-15.366129,0.0 28.276161,-15.371654,0.0 28.27631,-15.372505,0.0 28.275105,-15.373688,0.0 28.27104,-15.374849,0.0 28.270418,-15.375026,0.0 28.268711,-15.375174,0.0 28.267786,-15.375248,0.0 28.266644,-15.374565,0.0 28.266166,-15.374452,0.0 28.263916,-15.373413,0.0 28.261796,-15.373073,0.0 28.262277,-15.370171,0.0 28.259855,-15.369632,0.0 28.259776,-15.368459,0.0 28.256927,-15.367854,0.0 28.256921,-15.366888,0.0 28.256918,-15.366335,0.0 28.256054,-15.364614,0.0 28.254838,-15.363586,0.0 28.253996,-15.363198,0.0 28.255403,-15.361859,0.0 28.256264,-15.360955,0.0 28.25641,-15.360432,0.0 28.256976,-15.360081,0.0 28.256824,-15.359734,0.0 28.257092,-15.359588,0.0 28.256941,-15.359212,0.0 28.256999,-15.358922,0.0 28.256817,-15.358575,0.0 28.257562,-15.358165,0.0 28.256142,-15.355593,0.0 28.254267,-15.356705,0.0 28.253996,-15.356416,0.0 28.252533,-15.35657,0.0 28.252133,-15.354659,0.0 28.251835,-15.35466,0.0 28.252022,-15.35608,0.0 28.251515,-15.356112,0.0 28.249635,-15.356441,0.0 28.249367,-15.356674,0.0 28.248798,-15.356446,0.0 28.247704,-15.358394,0.0 28.247884,-15.358538,0.0 28.247353,-15.359585,0.0 28.247743,-15.359843,0.0 28.247418,-15.360454,0.0 28.247748,-15.360713,0.0 28.246861,-15.36237,0.0 28.246294,-15.362431,0.0 28.245305,-15.361944,0.0 28.24344,-15.364825,0.0 28.24389,-15.365054,0.0 28.243211,-15.366536,0.0 28.242979,-15.367726,0.0 28.242864,-15.368335,0.0 28.242056,-15.368195,0.0 28.242113,-15.36776,0.0 28.241932,-15.3675,0.0 28.241662,-15.36727,0.0 28.24163,-15.366864,0.0 28.242369,-15.365584,0.0 28.24181,-15.365319,0.0 28.246288,-15.35585,0.0 28.245023,-15.35538,0.0 28.244319,-15.354908,0.0 28.243124,-15.35437,0.0 28.241858,-15.353833,0.0 28.241294,-15.353292,0.0 28.240522,-15.35316,0.0 28.241906,-15.35009,0.0 28.241555,-15.349956,0.0 28.242733,-15.347636,0.0 28.242944,-15.347703,0.0 28.24419,-15.345042,0.0 28.242011,-15.344102,0.0 28.24319,-15.34185,0.0 28.247178,-15.34,0.0 28.259387,-15.340393,0.0 28.276487,-15.340357,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Arakan</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 8<br>
+<b>OBJECTID:</b> 90<br>
+<b>NAME:</b> Arakan<br>
+<b>PCODE:</b> ZMB_TW0089<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>8</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>90</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0089</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.331265,-15.433144,0.0 28.331262,-15.433156,0.0 28.328132,-15.442759,0.0 28.326612,-15.44291,0.0 28.318164,-15.439564,0.0 28.322297,-15.429444,0.0 28.32553,-15.430923,0.0 28.331265,-15.433144,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kalikiliki</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 46<br>
+<b>OBJECTID:</b> 91<br>
+<b>NAME:</b> Kalikiliki<br>
+<b>PCODE:</b> ZMB_TW0003<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>46</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>91</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0003</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.369338,-15.402198,0.0 28.370069,-15.408196,0.0 28.37016,-15.40908,0.0 28.369923,-15.40916,0.0 28.368994,-15.40908,0.0 28.368078,-15.409091,0.0 28.367847,-15.409094,0.0 28.367641,-15.409081,0.0 28.367005,-15.40915,0.0 28.366742,-15.409043,0.0 28.366392,-15.409191,0.0 28.366055,-15.409333,0.0 28.365768,-15.409414,0.0 28.365326,-15.409539,0.0 28.364903,-15.409659,0.0 28.364446,-15.409788,0.0 28.363825,-15.409919,0.0 28.363141,-15.410063,0.0 28.362209,-15.410324,0.0 28.362206,-15.410325,0.0 28.362204,-15.410322,0.0 28.362102,-15.410155,0.0 28.361342,-15.410123,0.0 28.361293,-15.410077,0.0 28.360809,-15.409618,0.0 28.361013,-15.408879,0.0 28.361313,-15.408424,0.0 28.361474,-15.407586,0.0 28.361483,-15.407495,0.0 28.361571,-15.406562,0.0 28.361952,-15.405501,0.0 28.362128,-15.40501,0.0 28.362761,-15.404234,0.0 28.362883,-15.403986,0.0 28.363427,-15.402879,0.0 28.363802,-15.402217,0.0 28.364448,-15.402157,0.0 28.365017,-15.402163,0.0 28.365726,-15.402165,0.0 28.366111,-15.402172,0.0 28.366563,-15.402183,0.0 28.36697,-15.402192,0.0 28.367393,-15.402196,0.0 28.367807,-15.402197,0.0 28.369013,-15.402198,0.0 28.369338,-15.402198,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>NRDC College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry_vertex_count:</b> 13<br>
+<b>OBJECTID:</b> 92<br>
+<b>NAME:</b> NRDC College<br>
+<b>PCODE:</b> ZMB_TW0090<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>13</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>92</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>ZMB_TW0090</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>28.384573,-15.392232,0.0 28.368437,-15.394516,0.0 28.3676,-15.392782,0.0 28.367677,-15.392713,0.0 28.364171,-15.38072,0.0 28.368768,-15.378607,0.0 28.370869,-15.37805,0.0 28.370768,-15.376961,0.0 28.371117,-15.377054,0.0 28.37108,-15.377148,0.0 28.371153,-15.378059,0.0 28.383929,-15.383185,0.0 28.384573,-15.392232,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+	</Document>
+</kml>

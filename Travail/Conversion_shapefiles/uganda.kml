@@ -1,0 +1,553 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>uganda_shp_ugandachallenge.shp</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-line-2'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-line-2-hover'>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-line-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-line-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-line-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-polygon-3'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-3-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Kisenyi</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry:</b> 29.8705862692,-0.309614314049,0.0 29.8698561861,-0.313115363983,0.0 29.8645658558,-0.31354533435,0.0 29.8589348219,-0.31107441735,0.0 29.8628355791,-0.307878805962,0.0 29.8705862692,-0.309614314049,0.0<br>
+<b>geometry_vertex_count:</b> 6<br>
+<b>OBJECTID:</b> 1<br>
+<b>Name:</b> Kisenyi<br>
+<b>PCODE:</b> UGD_TW0001<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>6</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>1</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>UGD_TW0001</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>29.870586,-0.309614,0.0 29.869856,-0.313115,0.0 29.864566,-0.313545,0.0 29.858935,-0.311074,0.0 29.862836,-0.307879,0.0 29.870586,-0.309614,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kazinga</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry:</b> 29.8992955769,-0.209044526284,0.0 29.8995126607,-0.212723955846,0.0 29.8941162266,-0.213775766938,0.0 29.8903992791,-0.208844856105,0.0 29.8951114478,-0.205858507064,0.0 29.8992955769,-0.209044526284,0.0<br>
+<b>geometry_vertex_count:</b> 6<br>
+<b>OBJECTID:</b> 2<br>
+<b>Name:</b> Kazinga<br>
+<b>PCODE:</b> UGD_TW0002<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>6</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>2</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>UGD_TW0002</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>29.899296,-0.209045,0.0 29.899513,-0.212724,0.0 29.894116,-0.213776,0.0 29.890399,-0.208845,0.0 29.895111,-0.205859,0.0 29.899296,-0.209045,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Katunguru HCIII</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry:</b> 30.055867377,-0.128255993319,0.0 30.0585079187,-0.129003416275,0.0 30.0610995112,-0.134643047738,0.0 30.0638687684,-0.14165693502,0.0 30.0666380247,-0.1486708232,0.0 30.0603502851,-0.152967259631,0.0 30.0570573572,-0.151027142289,0.0 30.0382089611,-0.138938290769,0.0 30.0381016729,-0.136524309849,0.0 30.0403176033,-0.1354017374,0.0 30.0497022006,-0.129670807662,0.0 30.0528144826,-0.127558250713,0.0 30.055867377,-0.128255993319,0.0<br>
+<b>geometry_vertex_count:</b> 13<br>
+<b>OBJECTID:</b> 3<br>
+<b>Name:</b> Katunguru HCIII<br>
+<b>PCODE:</b> UGD_TW0003<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>13</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>3</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>UGD_TW0003</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>30.055867,-0.128256,0.0 30.058508,-0.129003,0.0 30.0611,-0.134643,0.0 30.063869,-0.141657,0.0 30.066638,-0.148671,0.0 30.06035,-0.152967,0.0 30.057057,-0.151027,0.0 30.038209,-0.138938,0.0 30.038102,-0.136524,0.0 30.040318,-0.135402,0.0 30.049702,-0.129671,0.0 30.052814,-0.127558,0.0 30.055867,-0.128256,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Katunguru HCII</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry:</b> 30.0504421151,-0.119858508963,0.0 30.0500536413,-0.122915720084,0.0 30.0489391034,-0.125221898372,0.0 30.0454129614,-0.126326940336,0.0 30.0441352101,-0.125621209052,0.0 30.0432291764,-0.123380954667,0.0 30.0434179603,-0.1218692051,0.0 30.0477050626,-0.119643865072,0.0 30.0500405264,-0.118154255015,0.0 30.0504421151,-0.119858508963,0.0<br>
+<b>geometry_vertex_count:</b> 10<br>
+<b>OBJECTID:</b> 4<br>
+<b>Name:</b> Katunguru HCII<br>
+<b>PCODE:</b> UGD_TW0004<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>10</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>4</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>UGD_TW0004</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>30.050442,-0.119859,0.0 30.050054,-0.122916,0.0 30.048939,-0.125222,0.0 30.045413,-0.126327,0.0 30.044135,-0.125621,0.0 30.043229,-0.123381,0.0 30.043418,-0.121869,0.0 30.047705,-0.119644,0.0 30.050041,-0.118154,0.0 30.050442,-0.119859,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Katwe</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry:</b> 29.8942014949,-0.124459996332,0.0 29.9010238374,-0.143627479125,0.0 29.8841493047,-0.150149850036,0.0 29.8635386259,-0.145289998235,0.0 29.8580433212,-0.144810314245,0.0 29.8524000511,-0.13296281738,0.0 29.8540547947,-0.119854782172,0.0 29.8628790784,-0.116831338795,0.0 29.8761000586,-0.113197046207,0.0 29.8942014949,-0.124459996332,0.0<br>
+<b>geometry_vertex_count:</b> 10<br>
+<b>OBJECTID:</b> 5<br>
+<b>Name:</b> Katwe<br>
+<b>PCODE:</b> UGD_TW0005<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>10</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>5</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>UGD_TW0005</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>29.894201,-0.12446,0.0 29.901024,-0.143627,0.0 29.884149,-0.15015,0.0 29.863539,-0.14529,0.0 29.858043,-0.14481,0.0 29.8524,-0.132963,0.0 29.854055,-0.119855,0.0 29.862879,-0.116831,0.0 29.8761,-0.113197,0.0 29.894201,-0.12446,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kayanja</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry:</b> 29.7648622573,-0.0855414228983,0.0 29.7659856346,-0.0867527071716,0.0 29.7649711481,-0.0912146377453,0.0 29.7647967507,-0.0931296783919,0.0 29.7643529253,-0.0945907493635,0.0 29.7633420577,-0.0954824397627,0.0 29.7601800216,-0.0918194264253,0.0 29.7595992727,-0.0858608216196,0.0 29.7630577694,-0.0850699101482,0.0 29.7648622573,-0.0855414228983,0.0<br>
+<b>geometry_vertex_count:</b> 10<br>
+<b>OBJECTID:</b> 6<br>
+<b>Name:</b> Kayanja<br>
+<b>PCODE:</b> UGD_TW0006<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>10</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>6</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>UGD_TW0006</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>29.764862,-0.085541,0.0 29.765986,-0.086753,0.0 29.764971,-0.091215,0.0 29.764797,-0.09313,0.0 29.764353,-0.094591,0.0 29.763342,-0.095482,0.0 29.76018,-0.091819,0.0 29.759599,-0.085861,0.0 29.763058,-0.08507,0.0 29.764862,-0.085541,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kashaka</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry:</b> 30.1785446077,-0.0780406453595,0.0 30.1720190047,-0.0783633940553,0.0 30.1727056496,-0.0729131499219,0.0 30.183143979,-0.0727853337761,0.0 30.1785446077,-0.0780406453595,0.0<br>
+<b>geometry_vertex_count:</b> 5<br>
+<b>OBJECTID:</b> 7<br>
+<b>Name:</b> Kashaka<br>
+<b>PCODE:</b> UGD_TW0007<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>5</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>7</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>UGD_TW0007</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>30.178545,-0.078041,0.0 30.172019,-0.078363,0.0 30.172706,-0.072913,0.0 30.183144,-0.072785,0.0 30.178545,-0.078041,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Mahyoro</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry:</b> 30.2663040161,-0.0481939264085,0.0 30.2682005199,-0.0504552123381,0.0 30.2700970229,-0.0527164982677,0.0 30.2691264466,-0.0579355320991,0.0 30.2676472399,-0.0615363384312,0.0 30.2639007569,-0.0682782968059,0.0 30.2541739963,-0.0591969337914,0.0 30.2516890904,-0.0520747303645,0.0 30.2572745089,-0.0478906624241,0.0 30.2629780768,-0.0458764976023,0.0 30.2663040161,-0.0481939264085,0.0<br>
+<b>geometry_vertex_count:</b> 11<br>
+<b>OBJECTID:</b> 8<br>
+<b>Name:</b> Mahyoro<br>
+<b>PCODE:</b> UGD_TW0008<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>11</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>8</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>UGD_TW0008</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>30.266304,-0.048194,0.0 30.268201,-0.050455,0.0 30.270097,-0.052716,0.0 30.269126,-0.057936,0.0 30.267647,-0.061536,0.0 30.263901,-0.068278,0.0 30.254174,-0.059197,0.0 30.251689,-0.052075,0.0 30.257275,-0.047891,0.0 30.262978,-0.045876,0.0 30.266304,-0.048194,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kasenyi</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry:</b> 30.1513624172,-0.0258605467268,0.0 30.151729275,-0.0360857565524,0.0 30.1356792849,-0.037966161609,0.0 30.1313862973,-0.0316416523403,0.0 30.139611352,-0.0276473836198,0.0 30.1460183552,-0.0258198029415,0.0 30.1513624172,-0.0258605467268,0.0<br>
+<b>geometry_vertex_count:</b> 7<br>
+<b>OBJECTID:</b> 9<br>
+<b>Name:</b> Kasenyi<br>
+<b>PCODE:</b> UGD_TW0009<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>7</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>9</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>UGD_TW0009</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>30.151362,-0.025861,0.0 30.151729,-0.036086,0.0 30.135679,-0.037966,0.0 30.131386,-0.031642,0.0 30.139611,-0.027647,0.0 30.146018,-0.02582,0.0 30.151362,-0.025861,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kainja</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry:</b> 30.3068271123,-0.00258250837601,0.0 30.3043876437,-0.00827617020906,0.0 30.2955324853,-0.00110712739195,0.0 30.2976609207,0.0053305858379,0.0 30.3060858982,0.00686292358512,0.0 30.3068271123,-0.00258250837601,0.0<br>
+<b>geometry_vertex_count:</b> 6<br>
+<b>OBJECTID:</b> 10<br>
+<b>Name:</b> Kainja<br>
+<b>PCODE:</b> UGD_TW0010<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>6</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>10</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>UGD_TW0010</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>30.306827,-0.002583,0.0 30.304388,-0.008276,0.0 30.295532,-0.001107,0.0 30.297661,0.005331,0.0 30.306086,0.006863,0.0 30.306827,-0.002583,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Hamkungu</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry:</b> 30.088060339,0.0112534291025,0.0 30.0873779361,0.0102122129234,0.0 30.0812560369,0.00736120105864,0.0 30.0720188817,0.00646231158646,0.0 30.0720187297,0.00647769718802,0.0 30.0702650922,0.011974887731,0.0 30.075513229,0.0164514107041,0.0 30.0801212706,0.0168076564482,0.0 30.0867370829,0.0183137771592,0.0 30.088060339,0.0112534291025,0.0<br>
+<b>geometry_vertex_count:</b> 10<br>
+<b>OBJECTID:</b> 11<br>
+<b>Name:</b> Hamkungu<br>
+<b>PCODE:</b> UGD_TW0011<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>10</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>11</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>UGD_TW0011</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>30.08806,0.011253,0.0 30.087378,0.010212,0.0 30.081256,0.007361,0.0 30.072019,0.006462,0.0 30.072019,0.006478,0.0 30.070265,0.011975,0.0 30.075513,0.016451,0.0 30.080121,0.016808,0.0 30.086737,0.018314,0.0 30.08806,0.011253,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Nyakera</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry:</b> 30.3175386953,0.0421264004131,0.0 30.3149884823,0.0336903162552,0.0 30.3053544652,0.0366552119685,0.0 30.304279556,0.040004292664,0.0 30.3157235513,0.0449268973585,0.0 30.3175386953,0.0421264004131,0.0<br>
+<b>geometry_vertex_count:</b> 6<br>
+<b>OBJECTID:</b> 12<br>
+<b>Name:</b> Nyakera<br>
+<b>PCODE:</b> UGD_TW0012<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>6</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>12</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>UGD_TW0012</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>30.317539,0.042126,0.0 30.314988,0.03369,0.0 30.305354,0.036655,0.0 30.30428,0.040004,0.0 30.315724,0.044927,0.0 30.317539,0.042126,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kahendero</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry:</b> 30.0563433108,0.0623466107076,0.0 30.053835509,0.0478974210292,0.0 30.0510649928,0.0502277632008,0.0 30.0493141899,0.053257523416,0.0 30.0483071543,0.0572896113266,0.0 30.048563301,0.0620955280862,0.0 30.0499684161,0.0648950960319,0.0 30.0541545786,0.0649507631672,0.0 30.0563433108,0.0623466107076,0.0<br>
+<b>geometry_vertex_count:</b> 9<br>
+<b>OBJECTID:</b> 13<br>
+<b>Name:</b> Kahendero<br>
+<b>PCODE:</b> UGD_TW0013<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>9</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>13</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>UGD_TW0013</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>30.056343,0.062347,0.0 30.053836,0.047897,0.0 30.051065,0.050228,0.0 30.049314,0.053258,0.0 30.048307,0.05729,0.0 30.048563,0.062096,0.0 30.049968,0.064895,0.0 30.054155,0.064951,0.0 30.056343,0.062347,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Muhokya</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry:</b> 30.0470808693,0.0944049649173,0.0 30.0489955592,0.0912865261523,0.0 30.0479180797,0.0856767917506,0.0 30.040875182,0.0837991323241,0.0 30.0385322026,0.0878455320457,0.0 30.0396476021,0.0929964907955,0.0 30.0427305284,0.0956922535947,0.0 30.0470808693,0.0944049649173,0.0<br>
+<b>geometry_vertex_count:</b> 8<br>
+<b>OBJECTID:</b> 14<br>
+<b>Name:</b> Muhokya<br>
+<b>PCODE:</b> UGD_TW0014<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>8</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>14</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>UGD_TW0014</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>30.047081,0.094405,0.0 30.048996,0.091287,0.0 30.047918,0.085677,0.0 30.040875,0.083799,0.0 30.038532,0.087846,0.0 30.039648,0.092996,0.0 30.042731,0.095692,0.0 30.047081,0.094405,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Kikorongo</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry:</b> 29.9898860075,0.00614885530632,0.0 29.992300678,0.00739930968496,0.0 29.9959226838,0.00653692735477,0.0 29.9996740469,0.00481216269463,0.0 30.0010107396,-0.000103416586853,0.0 30.003770363,-0.0066575222956,0.0 30.0042877924,-0.00963274133437,0.0 30.0041153159,-0.0124354839072,0.0 30.001528169,-0.0132547471208,0.0 29.9909208663,-0.00303551650916,0.0 29.9884630767,-1.7178353858e-05,0.0 29.9876869326,0.0020956583549,0.0 29.9884630767,0.00489840092769,0.0 29.9898860075,0.00614885530632,0.0<br>
+<b>geometry_vertex_count:</b> 14<br>
+<b>OBJECTID:</b> 15<br>
+<b>Name:</b> Kikorongo<br>
+<b>PCODE:</b> UGD_TW0015<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>14</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>15</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>UGD_TW0015</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>29.989886,0.006149,0.0 29.992301,0.007399,0.0 29.995923,0.006537,0.0 29.999674,0.004812,0.0 30.001011,-1.03E-4,0.0 30.00377,-0.006658,0.0 30.004288,-0.009633,0.0 30.004115,-0.012435,0.0 30.001528,-0.013255,0.0 29.990921,-0.003036,0.0 29.988463,-1.7E-5,0.0 29.987687,0.002096,0.0 29.988463,0.004898,0.0 29.989886,0.006149,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Main Gate</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry:</b> 29.9232235495,-0.137900308944,0.0 29.9235688063,-0.13588551446,0.0 29.9283119091,-0.133945154217,0.0 29.9297324285,-0.13417138554,0.0 29.9291311723,-0.136230467392,0.0 29.9242419954,-0.138926170241,0.0 29.9232235495,-0.137900308944,0.0<br>
+<b>geometry_vertex_count:</b> 7<br>
+<b>OBJECTID:</b> 16<br>
+<b>Name:</b> Main Gate<br>
+<b>PCODE:</b> UGD_TW0016<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>7</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>16</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>UGD_TW0016</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>29.923224,-0.1379,0.0 29.923569,-0.135886,0.0 29.928312,-0.133945,0.0 29.929732,-0.134171,0.0 29.929131,-0.13623,0.0 29.924242,-0.138926,0.0 29.923224,-0.1379,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>Mweya</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>geometry:</b> 29.900252,-0.1851019,0.0 29.9018009111,-0.187101077402,0.0 29.9041132786,-0.193901603295,0.0 29.903087226,-0.196985302547,0.0 29.8992496246,-0.199486211304,0.0 29.8943771644,-0.197977042227,0.0 29.891617541,-0.194010083508,0.0 29.8917900175,-0.192802748246,0.0 29.895163,-0.190256,0.0 29.900252,-0.1851019,0.0<br>
+<b>geometry_vertex_count:</b> 10<br>
+<b>OBJECTID:</b> 17<br>
+<b>Name:</b> Mweya<br>
+<b>PCODE:</b> UGD_TW0017<br>
+<b>import_notes:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>10</value>
+				</Data>
+				<Data name='OBJECTID'>
+					<value>17</value>
+				</Data>
+				<Data name='PCODE'>
+					<value>UGD_TW0017</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>29.900252,-0.185102,0.0 29.901801,-0.187101,0.0 29.904113,-0.193902,0.0 29.903087,-0.196985,0.0 29.89925,-0.199486,0.0 29.894377,-0.197977,0.0 29.891618,-0.19401,0.0 29.89179,-0.192803,0.0 29.895163,-0.190256,0.0 29.900252,-0.185102,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+	</Document>
+</kml>

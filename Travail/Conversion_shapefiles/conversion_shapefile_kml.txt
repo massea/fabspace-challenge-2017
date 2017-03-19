@@ -1,0 +1,13 @@
+Par ici > http://www.shpescape.com/ft/
+
+Autoriser l’accès à votre compte Google pour récupérer les données
+
+Charger le zip du shapefile (pas besoin de cocher les options)
+
+Patienter pendant l’import vers Google Fusion Table
+
+Cliquer sur le lien Fusion Table
+
+Aller dans l’onglet « Map of geometry »
+
+Puis, File > Download > KML > Download

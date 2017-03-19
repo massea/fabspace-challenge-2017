@@ -1,0 +1,26 @@
+Pré-requis : Google Earth installé
+
+Récupérer le fichier KML qui identifie les tuiles Sentinel 2 autour du globe (https://sentinels.copernicus.eu/documents/247904/1955685/S2A_OPER_GIP_TILPAR_MPC__20151209T095117_V20150622T000000_21000101T000000_B00.kml/ec05e22c-a2bc-4a13-9e84-02d5257b09a8)
+
+Ouvrir ce KML sur Google Earth
+
+Ouvrir les KML des zones d’intérêt (exemple : uganda.kml)
+
+Cliquer sur les tuiles qui recouvrent la zone d’intérêt pour obtenir l’identifiant de la tuile
+
+Ex : 
+pour uganda.kml => 35MRV + 35NRA
+pour lusaka.kml => 35LPD + 35LPC
+
+On peut alors récupérer les tuiles via :
+http://sentinel-s2-l1c.s3-website.eu-central-1.amazonaws.com/#tiles/35/L/PD/
+http://sentinel-s2-l1c.s3-website.eu-central-1.amazonaws.com/#tiles/35/L/PC/
+http://sentinel-s2-l1c.s3-website.eu-central-1.amazonaws.com/#tiles/35/M/RV/
+http://sentinel-s2-l1c.s3-website.eu-central-1.amazonaws.com/#tiles/35/N/RA/
+
+Il est intéressant de regarder les fichier preview.jpg pour vérifier la couverture de la zone d’intérêt (les tuiles peuvent être incomplètes) et les nuages
+Ex : http://sentinel-s2-l1c.s3.amazonaws.com/tiles/35/L/PD/2016/7/29/0/preview.jpg
+
+
+Plus d’infos sur http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/
+
