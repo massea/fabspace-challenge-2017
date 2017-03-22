@@ -1,0 +1,4 @@
+Dataset de la population sur le globe :
+http://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-count
+http://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-count-adjusted-to-2015-unwpp-country-totals
+Tuto : https://medium.com/google-earth/the-global-population-of-the-world-ae8b8b362c99#.17c9vwjmv
