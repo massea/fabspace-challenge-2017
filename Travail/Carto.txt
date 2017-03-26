@@ -6,4 +6,8 @@ https://www.google.fr/maps/place/Katwe+Village,+Ouganda/@-0.1453874,29.8799414,8
 
 https://lv.eosda.com
 
-Machine learning avec OSM : https://github.com/trailbehind/DeepOSM
+Machine learning avec OSM :
+https://github.com/trailbehind/DeepOSM
+https://github.com/developmentseed/skynet-data
+
+https://www.mapbox.com/maps/satellite/
