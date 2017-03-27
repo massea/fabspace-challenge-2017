@@ -5,6 +5,7 @@ https://www.google.fr/maps/place/Katwe+Village,+Ouganda/@-0.1453874,29.8799414,8
 + Streetview !
 
 https://lv.eosda.com
+http://www.sentinel-hub.com/apps/sentinel-playground
 
 Machine learning avec OSM :
 https://github.com/trailbehind/DeepOSM
